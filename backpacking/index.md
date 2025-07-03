@@ -10,14 +10,14 @@ Here are some past trips:
 - [Inyo NF, Ansel Adams (2022)](https://www.icloud.com/sharedalbum/#B2dGIcgc2GO1Nh6)
 - [Yosemite, Lyell Canyon (2021)](https://www.icloud.com/sharedalbum/#B2dGJDfWGG0Vhj7)
 - [Emigrant Wilderness (2021)](https://www.icloud.com/sharedalbum/#B2d5aDWbrMlwaZ)
-- [Sierra NF - Ansel Adams (2019)](https://www.icloud.com/sharedalbum/#B2dJRveFpJOYfBF)
-- [Sequoia Mineral King (2018)](https://www.icloud.com/sharedalbum/#B2dGdPblXG2Ex5T)
+- [Sierra NF, Ansel Adams (2019)](https://www.icloud.com/sharedalbum/#B2dJRveFpJOYfBF)
+- [Sequoia NP, Mineral King (2018)](https://www.icloud.com/sharedalbum/#B2dGdPblXG2Ex5T)
 - [Marble Mountain Wilderness (2017)](https://www.icloud.com/sharedalbum/#B2d5CmvASx4qMT)
 - [Emigrant Wilderness (2017)](https://www.icloud.com/sharedalbum/#B2d5NI45M298sk)
 - [Emigrant Wilderness (2016)](https://www.icloud.com/sharedalbum/#B2d52plgjNzKRG)
-- [Yosemite, North Dome (2011)](https://www.icloud.com/sharedalbum/#B2d5M7GFPacFVN)
+- [Yosemite NP, North Dome (2011)](https://www.icloud.com/sharedalbum/#B2d5M7GFPacFVN)
 - [Emigrant Wilderness (2011)](https://www.icloud.com/sharedalbum/#B2dGQOeMmGAEYP2)
-- [Yosemite, Clouds Rest (2009)](https://www.icloud.com/sharedalbum/#B2d5aVbMKMX981)
+- [Yosemite NP, Clouds Rest (2009)](https://www.icloud.com/sharedalbum/#B2d5aVbMKMX981)
 - [Desolation Wilderness (2007)](https://www.icloud.com/sharedalbum/#B2dGdIshaGiskGQ)
 
 
