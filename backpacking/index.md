@@ -10,6 +10,7 @@ Here are some past trips:
 - [Inyo NF, Ansel Adams (2022)](https://www.icloud.com/sharedalbum/#B2dGIcgc2GO1Nh6)
 - [Yosemite, Lyell Canyon (2021)](https://www.icloud.com/sharedalbum/#B2dGJDfWGG0Vhj7)
 - [Emigrant Wilderness (2021)](https://www.icloud.com/sharedalbum/#B2d5aDWbrMlwaZ)
+- [Hoover Wilderness, Humboldt-Toiyabe NF (2020)]
 - [Sierra NF, Ansel Adams (2019)](https://www.icloud.com/sharedalbum/#B2dJRveFpJOYfBF)
 - [Sequoia NP, Mineral King (2018)](https://www.icloud.com/sharedalbum/#B2dGdPblXG2Ex5T)
 - [Marble Mountain Wilderness (2017)](https://www.icloud.com/sharedalbum/#B2d5CmvASx4qMT)
