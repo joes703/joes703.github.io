@@ -11,3 +11,8 @@ Here are some past trips:
 - [Emigrant Wilderness (2011)](https://www.icloud.com/sharedalbum/#B2dGQOeMmGAEYP2)
 - [Yosemite, Clouds Rest (2009)](https://www.icloud.com/sharedalbum/#B2d5aVbMKMX981)
 - [Desolation Wilderness (2007)](https://www.icloud.com/sharedalbum/#B2dGdIshaGiskGQ)
+
+
+# Backpacking Tips
+
+
