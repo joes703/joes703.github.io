@@ -1,5 +1,5 @@
 ---
-title: Backpacking
+title: BBQ
 ---
 
 # BBQ Tips
