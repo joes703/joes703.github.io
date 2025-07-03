@@ -1,4 +1,7 @@
 
+---
+title: Backpacking
+---
 
 # BBQ Tips
 
