@@ -4,6 +4,12 @@ title: Backpacking Trips Log
 
 # Backpacking Trip Log
 
+## 🗻 Backpacking Stats
+
+- **Trips Logged:** 18
+- **Total Nights:** 51
+- **Total Distance:** ~357 mi / 574 km
+
 Here are some past backpacking trips:
 
 ### Emigrant Wilderness, Stanislaus NF (2024)
