@@ -10,7 +10,7 @@ Here are some past backpacking trips:
 
 - **When:** July 3-6, 2024 (3 nights)
 - **Where:** Bear Lake, Upper Buck Lake, Woods Lake
-- **Who:** Joe, Jesse
+- **Who:** Joe, Jesse, Travis, Dylon, Andrew, Peter
 - **Distance:** 30.1 mi / 48.44 km
 - **Photos:** [View Album](https://www.icloud.com/sharedalbum/#B2dG0ehgLGJ9vq4)
 
