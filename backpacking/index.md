@@ -6,6 +6,14 @@ title: Backpacking
 
 Here are some past trips:
 
+### [Trip Title] ([Year])
+
+- **When:** [Month Year] ([n nights])
+- **Where:** Camped at [Location(s)]
+- **Who:** [Names]
+
+[Photos](https://www.icloud.com/sharedalbum/#yourlinkhere)
+
 - [Emigrant Wilderness, Stanislaus NF (2024)](https://www.icloud.com/sharedalbum/#B2dG0ehgLGJ9vq4)
 - [Ansel Adams Wilderness, Inyo NF](https://www.icloud.com/sharedalbum/#B2dGIcgc2GO1Nh6)
 - [Lyell Canyon, Yosemite NP (2021)](https://www.icloud.com/sharedalbum/#B2dGJDfWGG0Vhj7)
@@ -20,21 +28,32 @@ Here are some past trips:
 - [Emigrant Wilderness (2011)](https://www.icloud.com/sharedalbum/#B2dGQOeMmGAEYP2)
 - Cloud's Rest, Yosemite NP (2010)
 - Glen Aulin, Yosemite NP (2009)
-- Tuolumne Meadows to Yosemite Valley, Yosemite NP (2008)
+  
+
+### Tuolumne Meadows to Yosemite Valley, Yosemite NP (2008)
+
+
+### [Trip Title] ([Year])
+
+- **When:** [Month Year] ([n nights])
+- **Where:** Camped at [Location(s)]
+- **Who:** [Names]
+
+[Photos](https://www.icloud.com/sharedalbum/#yourlinkhere)
 
 ### Desolation Wilderness (2007)
 
-August 2007 (2 nights)  
-Camped at Lake Aloha, Clyde Lake, Suzie Lake  
-Joe, Lou, and Patrick
+When: September 14-17, 2007 (3 nights)  
+Where: Camped at Lake Aloha, Clyde Lake, Suzie Lake  
+Who: Joe, Lou, and Patrick
 
 [Photos](https://www.icloud.com/sharedalbum/#B2dGdIshaGiskGQ)
 
 ### Tuolumne Meadwos to Yosemite Valley, Yosemite NP (1995)
 
-August, 1995 (3 nights)
-Camped at Vogelsang, Merced Lake, Little Yosemite Valley 
-Joe, Garrett, and Dad
+- When: August, 1995 (3 nights)
+- Where: Started at Tuolumne Meadows. Camped at Vogelsang, Merced Lake, Little Yosemite Valley.
+- Who: Joe, Garrett, and Dad
 
 # Backpacking Tips
 
