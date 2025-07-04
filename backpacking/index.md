@@ -14,4 +14,4 @@ Here are some backpacking tips:
 
 Here is where I keep track of trips I've done:
 
--[Backpacking Trips Log](trips.md)
+- [Backpacking Trips Log](trips.md)
