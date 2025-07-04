@@ -9,6 +9,12 @@ Here are some backpacking tips:
 - [Backpacking Tips](tips.md)
 - [Gear Selection Advice](gear-advice.md)
 
+---
+
+# Backpacking Trip Log
+
+Here are some past backpacking trips:
+
 ### Emigrant Wilderness, Stanislaus NF (2024)
 
 - **When:** 
@@ -91,13 +97,19 @@ Here are some backpacking tips:
 
 ### Emigrant Wilderness, Stanislaus NF (2017)
 
-- **When:** 
-- **Where:** 
-- **Who:** 
-- **Distance:** 
+- **When:** August 18–21, 2017 (3 nights)
+- **Where:** Chewing Gum Lake, Y Meadow Lake, Powell Lake
+- **Who:** Joe, Jenn, Lance, Lisa
+- **Distance:** ~13 mi / 21 km
 - **Photos:** [View Album](https://www.icloud.com/sharedalbum/#B2d5NI45M298sk)
 
----
+### Emigrant Wilderness, Stanislaus NF (2016)
+
+- **When:** August 10–14, 2016 (4 nights)
+- **Where:** Paiute Lake, Upper Buck Lake, Wood Lake, Grouse Lake
+- **Who:** Joe, Jesse, Patrick, Michael, Carlos
+- **Distance:** ~20 mi / 32 km
+- **Photos:** [View Album](https://www.icloud.com/sharedalbum/#B2d52plgjNzKRG)
 
 ### Emigrant Wilderness, Stanislaus NF (2016)
 
@@ -107,37 +119,29 @@ Here are some backpacking tips:
 - **Distance:** 
 - **Photos:** [View Album](https://www.icloud.com/sharedalbum/#B2d52plgjNzKRG)
 
----
-
 ### North Dome, Yosemite NP (2011)
 
-- **When:** 
-- **Where:** 
-- **Who:** 
-- **Distance:** 
+- **When:** October 7-9, 2011 (2 nights)
+- **Where:** Yosemite Creek, North Dome
+- **Who:** Joe, Nate, Everett, Josh & son, Robert
+- **Distance:** ~15 mi / 24 km
 - **Photos:** [View Album](https://www.icloud.com/sharedalbum/#B2d5M7GFPacFVN)
-
----
 
 ### Emigrant Wilderness, Stanislaus NF (2011)
 
-- **When:** 
-- **Where:** 
-- **Who:** 
-- **Distance:** 
+- **When:** August 11-14, 2011 (3 nights)
+- **Where:** Bear Lake, Camp Lake
+- **Who:** Joe, Garrett, Brady, Nathan, Earl, Patrick, Eric 
+- **Distance:** ~12 mi / 19 km
 - **Photos:** [View Album](https://www.icloud.com/sharedalbum/#B2dGQOeMmGAEYP2)
-
----
 
 ### Cloud's Rest, Yosemite NP (2010)
 
 - **When:** August 12–15, 2010 (3 nights)
-- **Where:** Sunrise Lakes, Cathedral Lakes
+- **Where:** Sunrise Lakes, Cloud's Rest, Cathedral Lakes
 - **Who:** Joe, Garrett, Mike, Chris, Earl, Patrick, Tim
 - **Distance:** ~21 mi / 34 km
 - **Photos:** n/a
-
----
 
 ### Glen Aulin, Yosemite NP (2009)
 
@@ -147,17 +151,13 @@ Here are some backpacking tips:
 - **Distance:** ~21 mi / 33 km- 
 - **Photos:** [View Album](https://www.icloud.com/sharedalbum/#B2d5aVbMKMX981)
 
----
-
 ### Tuolumne Meadows to Yosemite Valley, Yosemite NP (2008)
 
-- **When:** June 2008 (3 nights)
+- **When:** June 20-23, 2008 (3 nights)
 - **Where:** Vogelsang, Merced Lake, Little Yosemite Valley
 - **Who:** Joe, Earl, Patrick, Jennifer R.
 - **Distance:** ~29 mi / 46 km
 - **Photos:** n/a
-
----
 
 ### Desolation Wilderness, Eldorado NF (2007)
 
@@ -166,8 +166,6 @@ Here are some backpacking tips:
 - **Who:** Joe, Lou, and Patrick
 - **Distance:** ~22 mi / 35 km
 - **Photos:** [View Album](https://www.icloud.com/sharedalbum/#B2dGdIshaGiskGQ)
-
----
 
 ### Tuolumne Meadows to Yosemite Valley, Yosemite NP (1995)
 
