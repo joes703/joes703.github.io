@@ -62,3 +62,11 @@ Who: Joe, Lou, and Patrick
 - Where: Started at Tuolumne Meadows. Camped at Vogelsang, Merced Lake, Little Yosemite Valley.
 - Who: Joe, Garrett, and Dad
 
+### Tuolumne Meadows to Yosemite Valley, Yosemite NP (1995)
+
+- **When:** August 1995 (3 nights)
+- **Where:** Vogelsang, Merced Lake, Little Yosemite Valley
+- **Who:** Joe, Garrett, and Dad
+- **Distance:** ~29 mi / 46 km
+
+[Photos](https://www.icloud.com/sharedalbum/#yourlinkhere)
