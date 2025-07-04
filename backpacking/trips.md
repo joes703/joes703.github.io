@@ -14,6 +14,14 @@ Here are some past backpacking trips:
 - **Distance:** 30.1 mi / 48.44 km
 - **Photos:** [View Album](https://www.icloud.com/sharedalbum/#B2dG0ehgLGJ9vq4)
 
+### Lyell Canyon, Yosemite NP (2022)
+
+- **When:** August 12-14, 2022 (2 nights)
+- **Where:** Lyell Canyon
+- **Who:** Joe, Garrett, Dad, Nico, Jarrod
+- **Distance:** 11.5 mi / 18.51 km
+- **Photos:** n/a
+
 ### Ansel Adams Wilderness, Inyo NF (2022)
 
 - **When:** July 20–23, 2022 (3 nights)
