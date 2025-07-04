@@ -131,21 +131,21 @@ Here are some backpacking tips:
 
 ### Cloud's Rest, Yosemite NP (2010)
 
-- **When:** 
-- **Where:** 
-- **Who:** 
-- **Distance:** 
-- **Photos:** 
+- **When:** August 12–15, 2010 (3 nights)
+- **Where:** Sunrise Lakes, Cathedral Lakes
+- **Who:** Joe, Garrett, Mike, Chris, Earl, Patrick, Tim
+- **Distance:** ~21 mi / 34 km
+- **Photos:** n/a
 
 ---
 
 ### Glen Aulin, Yosemite NP (2009)
 
-- **When:** 
-- **Where:** 
-- **Who:** 
-- **Distance:** 
-- **Photos:** 
+- **When:** August 7-10, 2009 (3 mights)
+- **Where:** Glen Aulin, Polly Dome Lake, May Lake
+- **Who:** Joe, Garrett, Vance, Nate, Earl, Patrick, Mike
+- **Distance:** ~21 mi / 33 km- 
+- **Photos:** [View Album](https://www.icloud.com/sharedalbum/#B2d5aVbMKMX981)
 
 ---
 
