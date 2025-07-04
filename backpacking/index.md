@@ -2,6 +2,13 @@
 title: Backpacking
 ---
 
+# Backpacking Tips
+
+Here are some backpacking tips:
+
+- [Backpacking Tips](tips.md)
+- [Gear Selection Advice](gear-advice.md)
+
 # Backpacking Trips
 
 Here are some past trips:
@@ -55,9 +62,3 @@ Who: Joe, Lou, and Patrick
 - Where: Started at Tuolumne Meadows. Camped at Vogelsang, Merced Lake, Little Yosemite Valley.
 - Who: Joe, Garrett, and Dad
 
-# Backpacking Tips
-
-Here are some backpacking tips:
-
-- [Backpacking Tips](tips.md)
-- [Gear Selection Advice](gear-advice.md)
