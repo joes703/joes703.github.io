@@ -33,7 +33,7 @@ Here are some past backpacking trips:
 ### Lyell Canyon, Yosemite NP (2021)
 
 - **When:** August 27-30, 2021
-- **Where:** Lyell Canyon
+- **Where:** Lyell Canyon (3 nights)
 - **Who:** Joe, Jenn, Jesse, Alissa, Lance, Lisa
 - **Distance:** 11.5 mi / 18.51 km
 - **Photos:** [View Album](https://www.icloud.com/sharedalbum/#B2dGJDfWGG0Vhj7)
@@ -48,7 +48,7 @@ Here are some past backpacking trips:
 
 ### Hoover Wilderness, Humboldt-Toiyabe NF (2020)
 
-- **When:** August 13-16, 2020
+- **When:** August 13-16, 2020 (3 nights)
 - **Where:** Fremont Lake, Long Lake, West Walker River
 - **Who:** Joe, Jesse, Jon, Renee, Kyle
 - **Distance:** 21.92 mi / 35.27 km
@@ -56,7 +56,7 @@ Here are some past backpacking trips:
 
 ### Lillian Lake, Ansel Adams Wilderness, Sierra NF (2019)
 
-- **When:** August 29-September 1, 2019
+- **When:** August 29-September 1, 2019 (3 nights)
 - **Where:** Lillian Lake
 - **Who:** Joe, Jesse
 - **Distance:** 16.5 mi / 26.5 km
