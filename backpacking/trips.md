@@ -30,10 +30,9 @@ title: Backpacking Trips
 - **Map:** [CalTopo Map](https://caltopo.com/m/NLSG)
 - **Photos:** [View Album](https://www.icloud.com/sharedalbum/#B2d5BydzFjnbci)
 
-## Trip Log
-Here are some past backpacking trips:
+## Past Trips
 
-### Emigrant Wilderness, Stanislaus NF (2024)
+### 2024 - Emigrant Wilderness, Stanislaus NF
 
 - **When:** July 3-6, 2024 (3 nights)
 - **Where:** Bear Lake, Upper Buck Lake, Woods Lake
@@ -41,7 +40,7 @@ Here are some past backpacking trips:
 - **Distance:** 30.1 mi / 48.44 km
 - **Photos:** [View Album](https://www.icloud.com/sharedalbum/#B2dG0ehgLGJ9vq4)
 
-### Lyell Canyon, Yosemite NP (2022)
+### 2022 - Lyell Canyon, Yosemite NP
 
 - **When:** August 12-14, 2022 (2 nights)
 - **Where:** Lyell Canyon
@@ -49,7 +48,7 @@ Here are some past backpacking trips:
 - **Distance:** 11.5 mi / 18.51 km
 - **Photos:** n/a
 
-### Ansel Adams Wilderness, Inyo NF (2022)
+### 2022 - Ansel Adams Wilderness, Inyo NF
 
 - **When:** July 20–23, 2022 (3 nights)
 - **Where:** Ediza Lake, Garnet Lake, Thousand Island Lake
@@ -57,7 +56,7 @@ Here are some past backpacking trips:
 - **Distance:** ~25 mi / 40 km
 - **Photos:** [View Album](https://www.icloud.com/sharedalbum/#B2dGIcgc2GO1Nh6)
 
-### Lyell Canyon, Yosemite NP (2021)
+### 2021 - Lyell Canyon, Yosemite NP
 
 - **When:** August 27-30, 2021
 - **Where:** Lyell Canyon (3 nights)
@@ -65,7 +64,7 @@ Here are some past backpacking trips:
 - **Distance:** 11.5 mi / 18.51 km
 - **Photos:** [View Album](https://www.icloud.com/sharedalbum/#B2dGJDfWGG0Vhj7)
 
-### Emigrant Wilderness, Stanislaus NF (2021)
+### 2021 - Emigrant Wilderness, Stanislaus NF
 
 - **When:** July 28-31, 2021 (3 nights)
 - **Where:** Bear Lake, Piute Lake, Upper Buck Lake
@@ -73,7 +72,7 @@ Here are some past backpacking trips:
 - **Distance:** 30.1 mi / 48.44 km
 - **Photos:** [View Album](https://www.icloud.com/sharedalbum/#B2d5aDWbrMlwaZ)
 
-### Hoover Wilderness, Humboldt-Toiyabe NF (2020)
+### 2020 - Hoover Wilderness, Humboldt-Toiyabe NF
 
 - **When:** August 13-16, 2020 (3 nights)
 - **Where:** Fremont Lake, Long Lake, West Walker River
@@ -81,7 +80,7 @@ Here are some past backpacking trips:
 - **Distance:** 21.92 mi / 35.27 km
 - **Photos:** n/a
 
-### Lillian Lake, Ansel Adams Wilderness, Sierra NF (2019)
+### 2019 - Lillian Lake, Ansel Adams, Sierra NF
 
 - **When:** August 29-September 1, 2019 (3 nights)
 - **Where:** Lillian Lake
@@ -89,7 +88,7 @@ Here are some past backpacking trips:
 - **Distance:** 16.5 mi / 26.5 km
 - **Photos:** [View Album](https://www.icloud.com/sharedalbum/#B2dJRveFpJOYfBF)
 
-### Mineral King, Sequoia NP (2018)
+### 2018 - Mineral King, Sequoia NP
 
 - **When:** August 8-11, 2018 (3 nights)
 - **Where:** Eagle Lake, Mosquito Lakes, Mineral Lakes
