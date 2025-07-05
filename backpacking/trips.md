@@ -27,7 +27,7 @@ title: Backpacking Trips
 - **Where:** Ediza Lake, Garnet Lake, Thousand Island Lake
 - **Who:** Joe, Travis
 - **Distance:** ~23 mi / 37 km
-- **Map:** [CalTopo Map] (https://caltopo.com/m/NLSG)
+- **Map:** [CalTopo Map](https://caltopo.com/m/NLSG)
 - **Photos:** [View Album](https://www.icloud.com/sharedalbum/#B2d5BydzFjnbci)
 
 ## Trip Log
