@@ -12,7 +12,7 @@ title: Backpacking Trips
 
 ## Upcoming Trips
 
-### Lillian Lake Basin, Ansel Adams (2025)
+### 2025 - Lillian Lake Basin, Ansel Adams, Sierra NF
 
 - **When:** August 8-11, 2025 (3 nights)
 - **Where:** Staniford Lake, Lillian Lake, Rainbow Lake, Rutherford & Anne Lakes
@@ -21,11 +21,11 @@ title: Backpacking Trips
 - **Map:** [CalTopo Map](https://caltopo.com/m/27S5E48)
 - **Photos:** [View Album](https://www.icloud.com/sharedalbum/#B2dJu8EH6J07dgM)
 
-### Ansel Adams Wilderness, Inyo NF (2025)
+### 2025 - Ediza/Garnet/Clark, Ansel Adams, Inyo NF
 
 - **When:** July 20–23, 2022 (3 nights)
 - **Where:** Ediza Lake, Garnet Lake, Thousand Island Lake
-- **Who:** Joe, Travis
+- **Who:** Joe, Jesse, Dylon, Emmanuel, Travis, Eric
 - **Distance:** ~23 mi / 37 km
 - **Map:** [CalTopo Map](https://caltopo.com/m/NLSG)
 - **Photos:** [View Album](https://www.icloud.com/sharedalbum/#B2d5BydzFjnbci)
