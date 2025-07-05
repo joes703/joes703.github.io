@@ -2,13 +2,35 @@
 title: Backpacking Trips
 ---
 
-# Personal Stats
+# Backpacking Trips
+
+## Personal Stats
 
 - **Trips Logged:** 18
 - **Total Nights:** 51
 - **Total Distance:** ~357 mi / 574 km
 
-# Trip Log
+## Upcoming Trips
+
+### Lillian Lake Basin, Ansel Adams (2025)
+
+- **When:** August 8-11, 2025 (3 nights)
+- **Where:** Staniford Lake, Lillian Lake, Rainbow Lake, Rutherford & Anne Lakes
+- **Who:** Joe, Robert, Dylon, Emmanuel, Carlos, Travis, Serge, Lisa, Eric 
+- **Distance:** ~24 mi / 39 km
+- **Map:** [CalTopo Map](https://caltopo.com/m/27S5E48)
+- **Photos:** [View Album](https://www.icloud.com/sharedalbum/#B2dJu8EH6J07dgM)
+
+### Ansel Adams Wilderness, Inyo NF (2025)
+
+- **When:** July 20–23, 2022 (3 nights)
+- **Where:** Ediza Lake, Garnet Lake, Thousand Island Lake
+- **Who:** Joe, Travis
+- **Distance:** ~23 mi / 37 km
+- **Map:** [CalTopo Map] (https://caltopo.com/m/NLSG)
+- **Photos:** [View Album](https://www.icloud.com/sharedalbum/#B2d5BydzFjnbci)
+
+## Trip Log
 Here are some past backpacking trips:
 
 ### Emigrant Wilderness, Stanislaus NF (2024)
