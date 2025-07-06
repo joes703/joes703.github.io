@@ -8,7 +8,7 @@ title: Backpacking Trips
 
 - **Trips Logged:** 18
 - **Total Nights:** 51
-- **Total Distance:** ~357 mi / 574 km
+- **Total Distance:** ~377 mi / 606 km
 
 ## Upcoming Trips
 
@@ -142,7 +142,7 @@ title: Backpacking Trips
 - **Distance:** ~12 mi / 19 km
 - **Photos:** [View Album](https://www.icloud.com/sharedalbum/#B2dGQOeMmGAEYP2)
 
-### 2010 Cloud's Rest, Yosemite NP
+### 2010 - Cloud's Rest, Yosemite NP
 
 - **When:** August 12–15, 2010 (3 nights)
 - **Where:** Sunrise Lakes, Cloud's Rest, Cathedral Lakes
@@ -158,7 +158,7 @@ title: Backpacking Trips
 - **Distance:** ~21 mi / 33 km- 
 - **Photos:** [View Album](https://www.icloud.com/sharedalbum/#B2d5aVbMKMX981)
 
-### 2008- Partial Yosemite High Sierra Loop, Yosemite NP
+### 2008 - Partial Yosemite High Sierra Loop, Yosemite NP
 
 - **When:** June 20-23, 2008 (3 nights)
 - **Where:** Vogelsang, Merced Lake, Little Yosemite Valley
@@ -166,7 +166,7 @@ title: Backpacking Trips
 - **Distance:** ~29 mi / 46 km
 - **Photos:** n/a
 
-### Desolation Wilderness, Eldorado NF (2007)
+### 2007 - Desolation Wilderness, Eldorado NF
 
 - **When:** September 14–17, 2007 (3 nights)
 - **Where:** Lake Aloha, Clyde Lake, Suzie Lake
@@ -174,7 +174,7 @@ title: Backpacking Trips
 - **Distance:** ~22 mi / 35 km
 - **Photos:** [View Album](https://www.icloud.com/sharedalbum/#B2dGdIshaGiskGQ)
 
-### Partial Yosemite High Sierra Loop, Yosemite NP (1995)
+### 1995 - Partial Yosemite High Sierra Loop, Yosemite NP
 
 - **When:** August 1995 (3 nights)
 - **Where:** Vogelsang, Merced Lake, Little Yosemite Valley
