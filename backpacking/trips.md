@@ -48,7 +48,7 @@ title: Backpacking Trips
 - **Who:** Joe, Garrett, Dad, Nico, Jarrod
 - **Distance:** 10.6 mi / 17.1 km
 - **Map:** [CalTopo Map](https://caltopo.com/m/Q53A)
-- **Photos:** n/a
+- **Photos:** [View Album](https://www.icloud.com/sharedalbum/#B2dGlxzuqGDxywd)
 
 ### 2022 - Ansel Adams Wilderness, Inyo NF
 
