@@ -12,7 +12,7 @@ title: Backpacking Trips
 
 ## Upcoming Trips
 
-### 2025 - Lillian Lake Basin, Ansel Adams, Sierra NF
+### 2025 - Ansel Adams Wilderness, Sierra NF
 
 - **When:** August 8-11, 2025 (3 nights)
 - **Where:** Staniford Lake, Lillian Lake, Rainbow Lake, Rutherford & Anne Lakes
@@ -21,7 +21,7 @@ title: Backpacking Trips
 - **Map:** [CalTopo Map](https://caltopo.com/m/27S5E48)
 - **Photos:** [View Album](https://www.icloud.com/sharedalbum/#B2dJu8EH6J07dgM)
 
-### 2025 - Ediza/Garnet/Clark, Ansel Adams, Inyo NF
+### 2025 - Ansel Adams Wilderness, Inyo NF
 
 - **When:** July 20–23, 2022 (3 nights)
 - **Where:** Ediza Lake, Garnet Lake, Thousand Island Lake
@@ -37,7 +37,8 @@ title: Backpacking Trips
 - **When:** July 3-6, 2024 (3 nights)
 - **Where:** Bear Lake, Upper Buck Lake, Woods Lake
 - **Who:** Joe, Jesse, Travis, Dylon, Andrew, Peter
-- **Distance:** 30.1 mi / 48.44 km
+- **Distance:** ~28 mi / 45 km
+- **Map:** [CalTopo Map](https://caltopo.com/m/3CES)
 - **Photos:** [View Album](https://www.icloud.com/sharedalbum/#B2dG0ehgLGJ9vq4)
 
 ### 2022 - Lyell Canyon, Yosemite NP
@@ -45,7 +46,8 @@ title: Backpacking Trips
 - **When:** August 12-14, 2022 (2 nights)
 - **Where:** Lyell Canyon
 - **Who:** Joe, Garrett, Dad, Nico, Jarrod
-- **Distance:** 11.5 mi / 18.51 km
+- **Distance:** 10.6 mi / 17.1 km
+- **Map:** [CalTopo Map](https://caltopo.com/m/Q53A)
 - **Photos:** n/a
 
 ### 2022 - Ansel Adams Wilderness, Inyo NF
@@ -61,7 +63,8 @@ title: Backpacking Trips
 - **When:** August 27-30, 2021
 - **Where:** Lyell Canyon (3 nights)
 - **Who:** Joe, Jenn, Jesse, Alissa, Lance, Lisa
-- **Distance:** 11.5 mi / 18.51 km
+- **Distance:** 10.6 mi / 17.1 km
+- **Map:** [CalTopo Map](https://caltopo.com/m/Q53A)
 - **Photos:** [View Album](https://www.icloud.com/sharedalbum/#B2dGJDfWGG0Vhj7)
 
 ### 2021 - Emigrant Wilderness, Stanislaus NF
@@ -69,7 +72,8 @@ title: Backpacking Trips
 - **When:** July 28-31, 2021 (3 nights)
 - **Where:** Bear Lake, Piute Lake, Upper Buck Lake
 - **Who:** Joe, Jesse
-- **Distance:** 30.1 mi / 48.44 km
+- **Distance:** ~28 mi / 45 km
+- **Map:** [CalTopo Map](https://caltopo.com/m/3CES)
 - **Photos:** [View Album](https://www.icloud.com/sharedalbum/#B2d5aDWbrMlwaZ)
 
 ### 2020 - Hoover Wilderness, Humboldt-Toiyabe NF
@@ -80,7 +84,7 @@ title: Backpacking Trips
 - **Distance:** 21.92 mi / 35.27 km
 - **Photos:** n/a
 
-### 2019 - Lillian Lake, Ansel Adams, Sierra NF
+### 2019 - Ansel Adams, Sierra NF
 
 - **When:** August 29-September 1, 2019 (3 nights)
 - **Where:** Lillian Lake
@@ -115,9 +119,10 @@ title: Backpacking Trips
 ### Emigrant Wilderness, Stanislaus NF (2016)
 
 - **When:** August 10–14, 2016 (4 nights)
-- **Where:** Paiute Lake, Upper Buck Lake, Wood Lake, Grouse Lake
+- **Where:** Paiute Lake, Upper Buck Lake, Woods Lake, Grouse Lake
 - **Who:** Joe, Jesse, Patrick, Michael, Carlos
-- **Distance:** ~20 mi / 32 km
+- **Distance:** ~28 mi / 45 km
+- **Map:** [CalTopo Map](https://caltopo.com/m/3CES)
 - **Photos:** [View Album](https://www.icloud.com/sharedalbum/#B2d52plgjNzKRG)
 
 ### North Dome, Yosemite NP (2011)
@@ -152,7 +157,7 @@ title: Backpacking Trips
 - **Distance:** ~21 mi / 33 km- 
 - **Photos:** [View Album](https://www.icloud.com/sharedalbum/#B2d5aVbMKMX981)
 
-### Tuolumne Meadows to Yosemite Valley, Yosemite NP (2008)
+### Partial Yosemite High Sierra Loop, Yosemite NP (2008)
 
 - **When:** June 20-23, 2008 (3 nights)
 - **Where:** Vogelsang, Merced Lake, Little Yosemite Valley
@@ -168,7 +173,7 @@ title: Backpacking Trips
 - **Distance:** ~22 mi / 35 km
 - **Photos:** [View Album](https://www.icloud.com/sharedalbum/#B2dGdIshaGiskGQ)
 
-### Tuolumne Meadows to Yosemite Valley, Yosemite NP (1995)
+### Partial Yosemite High Sierra Loop, Yosemite NP (1995)
 
 - **When:** August 1995 (3 nights)
 - **Where:** Vogelsang, Merced Lake, Little Yosemite Valley
