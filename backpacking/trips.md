@@ -100,15 +100,16 @@ title: Backpacking Trips
 - **Distance:** 11.2 mi / 18 km
 - **Photos:** [View Album](https://www.icloud.com/sharedalbum/#B2dGdPblXG2Ex5T)
 
-### Marble Mountain Wilderness, Klamath NF (2017)
+### 2017 - Marble Mountain Wilderness, Klamath NF
 
 - **When:** October 3-6, 2017 (3 nights)
 - **Where:** Upper & Lower Sky High Lakes, Shadow Lake
 - **Who:** Joe, Carlos
-- **Distance:** 16.5 mi / 26.5 km
+- **Distance:** 15.88 mi / 25.56 km
+- **Map:** [CalTopo Map](https://caltopo.com/m/12JG)
 - **Photos:** [View Album](https://www.icloud.com/sharedalbum/#B2d5CmvASx4qMT)
 
-### Emigrant Wilderness, Stanislaus NF (2017)
+### 2017 - Emigrant Wilderness, Stanislaus NF
 
 - **When:** August 18–21, 2017 (3 nights)
 - **Where:** Chewing Gum Lake, Y Meadow Lake, Powell Lake
@@ -116,7 +117,7 @@ title: Backpacking Trips
 - **Distance:** ~13 mi / 21 km
 - **Photos:** [View Album](https://www.icloud.com/sharedalbum/#B2d5NI45M298sk)
 
-### Emigrant Wilderness, Stanislaus NF (2016)
+### 2016 - Emigrant Wilderness, Stanislaus NF
 
 - **When:** August 10–14, 2016 (4 nights)
 - **Where:** Paiute Lake, Upper Buck Lake, Woods Lake, Grouse Lake
@@ -125,7 +126,7 @@ title: Backpacking Trips
 - **Map:** [CalTopo Map](https://caltopo.com/m/3CES)
 - **Photos:** [View Album](https://www.icloud.com/sharedalbum/#B2d52plgjNzKRG)
 
-### North Dome, Yosemite NP (2011)
+### 2011 - North Dome, Yosemite NP
 
 - **When:** October 7-9, 2011 (2 nights)
 - **Where:** Yosemite Creek, North Dome
@@ -133,7 +134,7 @@ title: Backpacking Trips
 - **Distance:** ~15 mi / 24 km
 - **Photos:** [View Album](https://www.icloud.com/sharedalbum/#B2d5M7GFPacFVN)
 
-### Emigrant Wilderness, Stanislaus NF (2011)
+### 2011 Emigrant Wilderness, Stanislaus NF
 
 - **When:** August 11-14, 2011 (3 nights)
 - **Where:** Bear Lake, Camp Lake
@@ -141,7 +142,7 @@ title: Backpacking Trips
 - **Distance:** ~12 mi / 19 km
 - **Photos:** [View Album](https://www.icloud.com/sharedalbum/#B2dGQOeMmGAEYP2)
 
-### Cloud's Rest, Yosemite NP (2010)
+### 2010 Cloud's Rest, Yosemite NP
 
 - **When:** August 12–15, 2010 (3 nights)
 - **Where:** Sunrise Lakes, Cloud's Rest, Cathedral Lakes
@@ -149,7 +150,7 @@ title: Backpacking Trips
 - **Distance:** ~21 mi / 34 km
 - **Photos:** n/a
 
-### Glen Aulin, Yosemite NP (2009)
+### 2009 - Glen Aulin, Yosemite NP
 
 - **When:** August 7-10, 2009 (3 mights)
 - **Where:** Glen Aulin, Polly Dome Lake, May Lake
@@ -157,7 +158,7 @@ title: Backpacking Trips
 - **Distance:** ~21 mi / 33 km- 
 - **Photos:** [View Album](https://www.icloud.com/sharedalbum/#B2d5aVbMKMX981)
 
-### Partial Yosemite High Sierra Loop, Yosemite NP (2008)
+### 2008- Partial Yosemite High Sierra Loop, Yosemite NP
 
 - **When:** June 20-23, 2008 (3 nights)
 - **Where:** Vogelsang, Merced Lake, Little Yosemite Valley
