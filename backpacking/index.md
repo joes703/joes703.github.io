@@ -9,7 +9,6 @@ Here are some backpacking tips:
 - [Backpacking Tips](tips.md)
 - [Gear Selection Advice](gear-advice.md)
 
-
 # Backpacking Trips
 
 Here is where I keep track of trips I've done:
