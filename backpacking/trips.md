@@ -39,8 +39,8 @@ title: Backpacking Trips
 
 ### 2021 - Lyell Canyon, Yosemite NP
 
-- **When:** August 27-30, 2021
-- **Where:** Lyell Canyon (3 nights)
+- **When:** August 27-30, 2021 (3 nights)
+- **Where:** Lyell Canyon
 - **Who:** Joe, Jenn, Jesse, Alissa, Lance, Lisa
 - **Distance:** 10.6 mi / 17.1 km
 - **Map:** [CalTopo Map](https://caltopo.com/m/Q53A)
