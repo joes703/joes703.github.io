@@ -1,3 +1,6 @@
+---
+title: Resume
+---
 # Joseph Stevensen
 **Application Security Engineering Leader**  
 📍 San Jose, CA | ✉️ joe [at] stevensen.net | 🌐 [LinkedIn](https://www.linkedin.com/in/joe-stevensen-354742/)
