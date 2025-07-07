@@ -2,8 +2,5 @@
 
 Welcome to my personal website.
 
-## About
+This site is for things like [backpacking](backpacking/index.md) or [bbq](bbq/index.md) or whatever.
 
-This site is for things like backpacking or bbq or whatever.
-
-## Links
