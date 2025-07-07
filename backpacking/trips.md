@@ -6,8 +6,8 @@ title: Backpacking Trips
 ## Personal Stats
 
 - **Trips Logged:** 18
-- **Total Nights:** 51
-- **Total Distance:** ~377 mi / 606 km
+- **Total Nights:** 50
+- **Total Distance:** ~359 mi / 577 km
 
 ## Past Trips
 
