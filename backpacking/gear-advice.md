@@ -118,8 +118,6 @@ You don’t need perfect gear. You need reliable, tested gear that fits your nee
 - Evernew Titanium UL Pot 600 ml (ECA532, 95 g / 3.4 oz) – Ultralight, wide form pot ideal for solo use
 - Evernew Titanium UL Pot 900 ml (ECA533, 120 g / 4.2 oz) – Slightly larger capacity with same ultralight build
 
-Let me know if you’d like to apply this formatting across your entire gear guide.
-
 ---
 
 ## Food Storage
