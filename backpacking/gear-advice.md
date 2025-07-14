@@ -102,15 +102,20 @@ You don’t need perfect gear. You need reliable, tested gear that fits your nee
 - Large cook sets or excessive gadgets
 
 ### Top Picks – Stoves
-- Soto WindMaster – Best in wind, very efficient
-- Soto Amicus – Great budget option, reliable
-- MSR Pocket Rocket Deluxe – Easy ignition, decent wind resistance
-- Fire-Maple Greenpeak II – Budget-friendly, pressure regulated
-- TOAKS STV-21 – Lightweight, solid performer, minimalist design
+- Soto WindMaster (87 g / 3.1 oz) – Best in wind, very efficient
+- Soto Amicus (75 g / 2.6 oz) – Great budget option, reliable
+- MSR Pocket Rocket Deluxe (83 g / 2.9 oz) – Easy ignition, decent wind resistance
+- Fire-Maple Greenpeak II (135 g / 4.8 oz) – Budget-friendly, pressure regulated
+- TOAKS STV-21 (45 g / 1.6 oz) – Lightweight, solid performer, minimalist design
+
+### Top Picks – Integrated Stove Systems
+- Fire-Maple Petrel Quickboil Pro (255 g / 9.0 oz) – Ultra-efficient in wind and cold, twist-lock pot for stability
 
 ### Top Picks – Pots
-- TOAKS Titanium 750 / 900 ml – Lightweight, durable, simple
-- Fire-Maple Petrel G2 – Aluminum with heat exchanger; efficient and fuel-saving
+- TOAKS Titanium 750 / 900 ml (90–115 g / 3.2–4.1 oz) – Lightweight, durable, simple
+- Fire-Maple Petrel G2 (149 g / 5.3 oz) – Aluminum with heat exchanger; efficient and fuel-saving
+
+Let me know if you’d like to apply this formatting across your entire gear guide.
 
 ---
 
