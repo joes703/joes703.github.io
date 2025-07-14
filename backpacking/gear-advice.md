@@ -112,8 +112,11 @@ You don’t need perfect gear. You need reliable, tested gear that fits your nee
 - Fire-Maple Petrel Quickboil Pro (255 g / 9.0 oz) – Ultra-efficient in wind and cold, twist-lock pot for stability
 
 ### Top Picks – Pots
-- TOAKS Titanium 750 / 900 ml (90–115 g / 3.2–4.1 oz) – Lightweight, durable, simple
+- TOAKS Titanium 750 ml (90 g / 3.2 oz) – Lightweight, durable, simple
+- TOAKS Titanium 900 ml (115 g / 4.1 oz) – Same great design, more volume
 - Fire-Maple Petrel G2 (149 g / 5.3 oz) – Aluminum with heat exchanger; efficient and fuel-saving
+- Evernew Titanium UL Pot 600 ml (ECA532, 95 g / 3.4 oz) – Ultralight, wide form pot ideal for solo use
+- Evernew Titanium UL Pot 900 ml (ECA533, 120 g / 4.2 oz) – Slightly larger capacity with same ultralight build
 
 Let me know if you’d like to apply this formatting across your entire gear guide.
 
