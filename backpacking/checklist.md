@@ -1,5 +1,5 @@
 ---
-title: Backpacking Checklist
+title: Backpacking Trip Checklist
 ---
 
 ## Backpacking Prep Checklist
