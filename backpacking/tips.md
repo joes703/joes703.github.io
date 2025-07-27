@@ -61,42 +61,44 @@ Also test and prep:
   - Aim for a food mix of about 50–55% carbs, 30–35% fat, and 10–15% protein.
   - Target 125–140 calories per ounce for weight-efficient energy.
 
-## 6. How to Pack for the Conditions
+## 6. Conditions and How to Handle Them
 
-Summer in the Sierra means strong sun, cold nights, sudden storms, and mosquitoes. Plan for all of them.
+Backpacking the Sierra in summer means strong sun, cold nights, sudden storms, and mosquitoes — often in the same day. Knowing what to expect and how to prepare makes all the difference.
 
-- Afternoon thunderstorms are common, especially in July and August. Be off ridgelines early.
-- Night temperatures can drop below freezing at elevation. Bring a 30°F sleep system and insulating layers.
-- Sun exposure is intense at altitude. Wear a hat, sunglasses, and long sleeves.
-- Wind can hit suddenly. Choose sheltered campsites and pitch your shelter tight.
+### Sun and Heat
 
-For bugs:
+- UV exposure is intense at altitude. Wear long sleeves, pants, sunglasses, and a wide-brimmed hat.
+- Choose breathable, fast-drying fabrics like wool or synthetic. Avoid cotton.
+- Sip water steadily and use electrolytes when sweating heavily.
 
-- Mosquitoes are common from June through mid-August, especially near water.
-- Treat clothing with permethrin before the trip.
-- Carry picaridin lotion for exposed skin. It is effective and gear-safe.
-- A head net helps in camp when bugs are active.
+### Cold and Night
 
-## 7. Clothing and Footwear
+- Night temps often drop into the 30s. Bring a 30°F-rated sleep system and warm layers.
+- A fleece or active insulation layer is for hiking. A puffy is for camp.
+- Sleep in dry socks and a base layer top. Don’t rely on your hiking clothes staying dry.
 
-Bring what works, not what looks good. One hiking outfit is enough. Focus on comfort, weather protection, and recovery.
+### Rain and Wind
 
-- Use breathable, fast-drying shirts and shorts or pants. Wool or synthetic both work.
-- Always carry a rain shell, even in dry forecasts.
-- A midlayer (like fleece) and a puffy jacket keep you warm at camp and in the morning.
-- Pack dry sleep clothes: clean socks, underwear, and a base layer top.
-- Trail runners are ideal. They are lightweight, breathable, and quick to dry.
-- Trim your toenails before the trip.
-- Bring two pairs of socks. Rotate daily and air them out during breaks.
-- Avoid cotton. It stays wet, causes chafing, and does not insulate.
+- Thunderstorms are common in the afternoon. Be off ridges and passes by early afternoon.
+- Always carry a rain shell. Even short storms can lead to cold stress.
+- Wind can hit fast. Camp in sheltered spots and pitch your shelter low and tight.
 
-Optional but useful: learn the heel lock lacing technique to reduce blisters and toe jamming on descents.
+### Bugs
+
+- Mosquitoes are active June through mid-August, especially near water at dusk.
+- Treat clothes with permethrin before the trip.
+- Use picaridin lotion on exposed skin. It’s effective and gear-safe.
+- A head net helps in camp.
+
+### Foot Care and Footwear
+
+- Rocky trails and long descents are standard. Trail runners or boots both work — just make sure they fit and dry quickly.
+- Trim toenails to prevent black nails and pressure blisters.
+- Bring two pairs of socks. Rotate daily and dry them during breaks.
+- Use heel lock lacing to reduce sliding, blisters, and toe bang.
 
 
-
-Working on this section below
-
-## 8. Campsite Selection and Shelter Setup
+## 7. Campsite Selection and Shelter Setup
 Practical campsite criteria, plus how to set up a storm-worthy shelter.
 
 - Look for flat, durable ground with some wind protection
@@ -104,75 +106,52 @@ Practical campsite criteria, plus how to set up a storm-worthy shelter.
 - Stay at least 200 feet from water and trails
 - Check above for dead branches or leaning trees ("widowmakers")
 - Clear sharp rocks, sticks, and pinecones before pitching
+
+## 8. Hygiene
+
+- Wash hands often. Hand hygiene is the #1 way to prevent getting sick.
+- Consider a nightly wipe down of your body to stay clean.
+- Bring a sealable bag and pack out all used toilet paper or wipes.
+
+## 9. First Aid
+
+- Carry the medications you personally need. Forgetting a daily med can end your trip.
+- Bring a few pain relievers — they help with soreness, injuries, and unexpected aches.
+- Digestive issues are common. A couple Imodium or antacids can save the day.
+- Treat blisters early. Leukotape or moleskin work well if applied before they get worse.
+- Clean and cover small cuts to prevent infection. Don’t ignore them just because they’re minor.
+
+## 10. Water Strategy and Filter Use
+
+- Always treat your water. Clear streams can still carry Giardia.
+- Use separate containers for dirty and clean water to avoid contamination.
+- Camel up at water sources by drinking a full liter before hiking on.
+- Let silty water settle before filtering to prevent clogs.
+- If freezing temps are expected, keep your filter inside your sleep setup. A frozen filter is no longer safe.
+
+## 11. Sierra-Specific Hazards
+
+The Sierra presents unique risks even in summer. Know what to expect and how to respond.
+
+- Sun: Intense UV at elevation. Wear long sleeves, a hat, and sunglasses.
+- Altitude: Symptoms like headache and nausea can hit above 8,000 ft. Ascend gradually, hydrate, and rest if needed.
+- Dehydration: Drink steadily throughout the day. Don’t rely on thirst.
+- Storms: Thunderstorms build quickly. Be off exposed ridges by early afternoon.
+- Cold: Nights can drop below freezing. Sleep in dry clothes and have sufficient insulation.
+- Falls: Stay on trail. Avoid scrambling or climbing unless absolutely necessary. Rock in the Sierra can be loose or slick.
 - 
+## 12. Common Leave No Trace Mistakes
 
-## 9. Hygiene and Bathroom Skills
-
-- Always sanitize or wash your hands after using the bathroom and before eating
-- Soap sheets (like Fomin or Dr. Bronner’s) work well with a little water
-- Alcohol-based hand sanitizer is useful but not enough on its own
-- Dry hands with a small towel or clean bandana
-Hand hygiene is the #1 way to prevent stomach bugs on trail.
-- Use a small towel or wet wipe to clean key areas before bed: face, pits, groin, feet
-- Warm water helps. Heat ~500 ml, let it cool, and moisten a towel or wipe
-- Use biodegradable soap sparingly, well away from water sources
-- Pat dry with a dedicated camp towel
-- Go 200 feet from water, trail, and camp
-- Dig a 6–8 inch cathole using a proper trowel
-- Do your business in the hole and cover it completely
-- Pack out all toilet paper and wipes in a sealed zip bag or dog waste bag
-- Never bury wipes — even “biodegradable” ones take too long to break down
-
-## 10. First Aid, Foot Care, and Blister Prevention
-Focused, concise, and aligned with what hikers actually face.
-
-- Trim toenails before the trip
-- Tape known hotspots before hiking (Leukotape or similar)
-- Change or rotate socks daily and let them dry at breaks
-- If feet get wet, dry them fully at camp and use bread bags or spare socks to manage moisture
-- Tape for blisters, basic bandages, daily meds, allergy meds, pain relief
-- Patch tape, zip ties, and something to cut with
-- Don’t bring a giant kit. Focus on what you know you’ll use
-- Carry any daily meds you rely on
-- Bring a few ibuprofen, allergy meds, and basic wound care supplies
-- Clean and cover small cuts early to prevent infection
-- If something’s bothering you — say so early
-- 
-- You’re not expected to be a medic — but do carry what you personally need
-- Know how to care for basic issues: blisters, small wounds, mild reactions, fatigue
-- Clean small cuts early and cover them
-- If something hurts or feels off, don’t push through in silence
+- Dropping small bits of trash like wrappers or bottle caps.
+- Burning trash or food in fire pits.
+- Leaving food waste behind. Scraps, peels, shells, and crumbs don’t break down and attract animals.
+- Leaving food or smelly items unattended, even briefly.
+- Leaving toilet paper or wipes buried or exposed. Pack them out.
 
 
-## 11. Water Strategy and Filter Use
-How to camel up, carry, filter with Sawyer or Katadyn, find water safely.
+## Misc tips and addtional reading
 
-- Always filter or treat water — don’t assume it’s safe, even if it looks clean
-- Use a filter system you’ve tested. Make sure it flows well and doesn’t leak
-- Carry 2–3 liters dirty water capacity (like a CNOC or bladder)
-- Carry at least 1 liter clean and sip steadily while hiking
-- Add electrolytes if you’re sweating a lot or feeling low energy
-
-Use a squeeze or gravity filter that you’ve tested before the trip.
-- Carry 2–3 liters dirty water capacity and at least 1 liter clean.
-- Know how to identify safe water sources on trail.
-- do not let your filter freeze at night. put it in your sleeping bag if freezing temps expected.
-- 
-
-## 12. Sierra-Specific Hazards
-Final wrap-up: sun, storms, altitude, dry stretches, etc.
-### Common Hazards
-
-- **Sun**: Strong UV and high elevation. Wear long sleeves, hat, and sunglasses
-- **Altitude**: Headaches, fatigue, and nausea can hit above 8,000 ft. Stay hydrated and rest if needed
-- **Dehydration**: Sip often. Don’t wait until you’re thirsty
-- **Storms**: Thunderstorms roll in fast. Be off high ridges by early afternoon
-- **Cold**: Even summer nights can drop into the 30s. Change into dry clothes at camp
-
-
-
-For product-specific recommendations, see the [Gear Selection Guide](gear-advice.md).
-
+- For product-specific recommendations, see the [Gear Selection Guide](gear-advice.md).
 
 https://www.rei.com/learn/expert-advice/layering-basics.html
 
@@ -180,9 +159,12 @@ https://www.rei.com/learn/expert-advice/meal-planning-for-ultralight-backpacking
 
 https://www.rei.com/learn/expert-advice/how-to-pack-for-ultralight-backpacking.html
 
-
-
+When on the trail
 - Don’t hike far ahead or fall far behind without saying something
 - Wait at trail junctions if you’re unsure where the group went
 - Speak up if you’re tired, overheated, cold, or unsure — early is best
-- Share your skills. Watch out for others. Ask questions when unsure
+
+When setting up camp
+- Avoid dips or depressions. Even dry ground can flood during a storm.
+- Always check above your shelter site — avoid dead trees and loose branches.
+- 
