@@ -5,11 +5,21 @@ title: Backpacking Trips
 
 ## Personal Stats
 
-- **Trips Logged:** 18
-- **Total Nights:** 50
-- **Total Distance:** ~359 mi / 577 km
+- **Trips Logged:** 19
+- **Total Nights:** 53
+- **Total Distance:** ~379 mi / 610 km
 
 ## Past Trips
+
+### 2025 - Ansel Adams Wilderness, Sierra NF
+
+- **When:** August 8-11 (3 nights)
+- **Where:** Lillian Lake, Rainbow Lake, Lady Lake
+- **Who:** Joe, Robert, Eric, Travis, Dylon, Emmanuel, Carlos, Serge, Lisa 
+- **Distance:** 20.42 mi / 32.86 km 
+- **Map:** [CalTopo Map](https://caltopo.com/m/27S5E48)
+- **Photos:** [View Album](https://www.icloud.com/sharedalbum/#B2dG4VTwGGyZdqv)
+
 
 ### 2024 - Emigrant Wilderness, Stanislaus NF
 
