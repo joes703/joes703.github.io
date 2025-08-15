@@ -1,25 +1,89 @@
 ---
-title: Gear Selection Advice
+title: Backpacking Gear Advice
 ---
 
-# Gear Selection Advice
+## What to Bring
 
-This section helps you make smart, lightweight gear choices—whether you’re buying, borrowing, or upgrading. It’s based on real-world Sierra conditions and what experienced hikers actually use.
+### Backpacking Gear
+- Backpack
+- Internal pack liner
+- Tent (with stakes, guylines)
+- Sleeping bag or quilt
+- Sleeping pad
+- Headlamp or flashlight
+- Optional: Trekking poles
+- Optional: Tent footprint
+- Optional: Pillow
+- Optional: Camp chair
 
-You don’t need perfect gear. You need reliable, tested gear that fits your needs and doesn't weigh more than it has to.
+### Kitchen
 
----
+- Isobutane stove
+- Isobutane fuel canister (110 g for 3-4 nights solo, 230 g for 6-8 nigths solo)
+- Pot (600 - 900 mL)
+- Spoon or utensil
+- Food storage (canister or Ursack)
+- Trash bag
+- Biodegradable soap
+- Small hand towel
 
-## Pack
+### Food & Water
 
-### What to Look For
+- Water bottles (1-2 liters)
+- Water filter or treatment
+- Food (freeze dried or dehydrated)
+
+### Clothing & Footwear
+
+- Wide brimmed hat (sun protection)
+- Sunglasses
+- Long sleeve shirt (for sun & bug protection)
+- Quick drying pants and/or shorts
+- Insulating jacket
+- Hiking boots or trail runners
+- Rain jacket or poncho
+- Socks (at least 1 extra pair)
+- Underwear (at least 1 extra pair)
+- (Optional) Sleep clothes
+- (Optional) Gloves or mittens
+- (Optional) Beanie
+- (Optional) Shoe gaitors
+
+### Navigation
+
+- Map
+- Compass
+- Watch
+- GPS
+- Satellite Messenger or Personal Locater Beacon
+
+### Health & Hygiene
+
+- Toothbrush and toothpaste
+- Trowel 
+- Toilet paper or wipes and sealable bag (must be packed out)
+- Hand sanitizer and soap
+- Hand towel or bandana
+- Sunscreen and lip balm
+- Insect repellent
+- Basic first aid kit (incl blister care)
+- Medications 
+
+
+## Gear Selection Advice
+
+This section includes some advice on choosing gear.
+
+### Pack
+
+#### What to Look For
 - Fits your torso and hips properly (get measured!)
 - 45–60L capacity for multi-day trips
 - Internal frame and padded hip belt
 - Can fit a bear canister (inside or under lid)
 - External pockets: mesh front, side bottles, hip belt storage
 
-### Avoid
+#### Avoid
 - Over 4–5 lbs unless you're carrying extreme loads
 - Cramming a bear can into an underbuilt pack
 - Frameless packs unless you're under 10 lb base weight
@@ -30,34 +94,30 @@ You don’t need perfect gear. You need reliable, tested gear that fits your nee
 - Gossamer Gear Mariposa 60 – Light, comfy, tons of external storage
 - Granite Gear Crown 3 60 – Versatile, durable, and well-padded
 
----
+### Shelter
 
-## Shelter
-
-### What to Look For
+#### What to Look For
 - 1–3 lbs packed weight
 - Storm-worthy and ventilated (especially at high elevations)
 - Easy to pitch and confidence-inspiring
 - Fits *you* and your pad comfortably
 
-### Avoid
+#### Avoid
 - Tents over 4.5 lbs
 - Single-wall shelters with poor airflow
 - Sketchy trekking pole tents if you haven’t practiced
 
-### Top Picks
+#### Top Picks
 - Durston X-Mid 1 – Roomy, stable, beginner-friendly, great value  
 - 3F UL Lanshan 1 Pro – Trekking pole tent, strong following, solid for the price  
 - Gossamer Gear The One – Ultralight, great interior space, requires care with setup  
 - Six Moon Designs Lunar Solo – Ultralight, storm-worthy, more forgiving pitch than The One
 
-### Pro Tip
+#### Pro Tip
 - Freestanding tents are easiest to pitch. Practice at home.
 - Use all guylines if wind is expected. Ventilate to reduce condensation.
 
----
-
-## Sleep System
+### Sleep System
 
 ### What to Look For
 - Quilt or bag rated 20–30°F for Sierra summer
