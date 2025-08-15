@@ -9,7 +9,6 @@ Here are some backpacking tips:
 - [Backpacking Tips](tips.md)
 - [Trip Checklist](checklist.md)
 - [Gear Selection Advice](gear-advice.md)
-- 
 
 # Backpacking Trips
 
