@@ -4,167 +4,187 @@ title: Backpacking Tips
 
 # Backpacking Tips
 
-This is an opinionated guide to hiking and camping in the Sierra Nevada and similar mountains. It offers clear, practical tips to help you prepare, stay safe, and enjoy your time out there.
+This is an opinionated guide to hiking and camping in the Sierra Nevada and similar mountains. Follow these, and you’ll be safe, comfortable, and more likely to have fun.
 
 ---
 
 ## 1. Required Reading
 
-If you are new to backpacking, I strongly recommend you read through these before going on a trip. 
+Before you start asking questions, **get the basics down**. These cover skills, gear, and etiquette that everyone should know.
 
-- REI's [Intro to Backpacking](https://www.rei.com/learn/series/intro-to-backpacking) is one of the best guides out there. If you are a new backpacker, please read each one of the articles in that series. 
-- After reading that series, take a look at the REI [Ultralight Backpacking Basics](https://www.rei.com/learn/expert-advice/ultralight-backpacking.html) for tips on reducing the weight of your pack by choosing lightweight gear and doing without some non essential items. 
-- If you're going backpacking in the mountains of California, you're hiking in "bear country." Familiarize yourself with the tips found in [Backpacking in Bear Country](https://www.rei.com/learn/expert-advice/backpacking-in-bear-country.html).
-- [Leave No Trace principles](https://lnt.org/why/7-principles/)
+- REI’s [Intro to Backpacking](https://www.rei.com/learn/series/intro-to-backpacking) — read the full series.
+- [Ultralight Backpacking Basics](https://www.rei.com/learn/expert-advice/ultralight-backpacking.html) — how to cut weight without cutting safety.
+- [Backpacking in Bear Country](https://www.rei.com/learn/expert-advice/backpacking-in-bear-country.html) — Sierra-specific food safety.
+- [Leave No Trace principles](https://lnt.org/why/7-principles/) — the standard for protecting the places you visit.
+
+---
 
 ## 2. What You’re Responsible For
 
+Everyone is responsible for **their own safety, impact, and preparation** — even if you’re not the trip leader. Even when you’re self-sufficient, backpacking with others means your choices affect the whole group. Share plans, coordinate gear, and be willing to adjust pace or route.
+
 - Know and follow wilderness regulations.
-- Secure all food and trash to protect your trip and the wildlife.
+- Secure all food and trash from wildlife.
 - Follow Leave No Trace principles.
-- Speak up early if you’re cold, hurt, or struggling.
-- Learn the route and be able to navigate on their own.
+- Speak up early if you’re uncomfortable, tired, or unsure about a decision.
+- Learn the route and be able to navigate on your own.
+
+---
 
 ## 3. Preparation and Testing Before You Go
 
-Before the trip, make sure you know how to:
+This is where most problems start: **people show up with gear they’ve never used or that doesn’t fit**. Your goal is to arrive with a kit you’ve already proven works for you.
 
-- Set up and take down your shelter in any conditions
-- Use your water filter properly and check it for leaks or clogs
-- Stay warm and dry using your sleep system
-- Navigate with a map and compass or GPS
+- Set up and take down your shelter until you can do it in the dark and wind.
+- Use your water filter; confirm it flows well and doesn’t leak.
+- Sleep in your system at home or on a short trip to check warmth and comfort.
+- Boil water with your stove and confirm how much fuel you’ll actually use.
+- Load your pack with everything you plan to bring and hike a few miles to check fit.
+- Navigate with a map and compass or GPS — don’t rely on someone else.
+- Treat clothing with permethrin well before the trip to keep mosquitoes down.
 
-Also test and prep:
-
-- Set up your shelter fully and check all stakes, guylines, and anchors
-- Boil water with your stove and confirm how much fuel you need
-- Run water through your filter at home to verify flow
-- Load your pack and do a short hike to check comfort and fit
-- (Optional) Treat clothing with permethrin to reduce mosquito bites
+---
 
 ## 4. Packing Light
 
-- Make a packing list ahead of time. Don’t guess the night before.
-- Use [Lighterpack](https://lighterpack.com) to log weights and spot unnecessary items.
-- Start with what you need to stay warm, dry, fed, and safe. Cut from there.
-- Don’t pack your fears. Most “just in case” items add weight and rarely get used.
-- Aim to keep your total pack weight under 30 lbs, including food, water, and fuel.
-- A lighter pack means faster hiking, less fatigue, and more room for comfort items if you want them.
+The most common beginner mistake is **packing your fears** — bringing extra clothes, gear, and “what if” items that never get used. Every extra pound in your pack costs you energy and comfort over the miles. Be deliberate with what you carry and trim weight wherever it won’t compromise safety.
+
+- Make a detailed packing list a week before the trip. Revise it.
+- Start with the essentials for staying warm, dry, fed, and safe.
+- Cut backups unless something is critical to survival.
+- Use [LighterPack](https://lighterpack.com) to weigh and track your gear.
+- Aim for a total pack weight under 30 lbs including food, water, and fuel.
+- Multi-use gear beats single-use (e.g. trekking pole tent, buff as hat/neck gaiter, pot as mug).
+- A lighter pack means less fatigue, fewer injuries, and more enjoyment.
+
+> **Reality Check: The Weight You Carry is the Trip You Get**
+>
+> The lighter your pack, the more you’ll enjoy the hike. Heavy gear will slow you down, cause fatigue, and make the trip less fun.
+>
+> Weigh your gear and avoid “just in case” extras. Keep your total weight under 30 lbs with food, water, and fuel. If you can’t, start cutting.
+
+---
 
 ## 5. What to Eat
 
-- Stick to boil-only meals. Skip anything that needs simmering or actual cooking.
-- Freeze-dried meals are lighter and last longer than dehydrated ones.
-- Backpacking is typically a low to moderate intensity activity, with bursts of higher exertion during climbs or at elevation.
-  - Fat is your most efficient fuel — over twice the calories per gram as carbs or protein.
-  - Sugary snacks provide quick energy but often cause crashes. Balance with fat and protein.
-  - Aim for a food mix of about 50–55% carbs, 30–35% fat, and 10–15% protein.
-  - Target 125–140 calories per ounce for weight-efficient energy.
+**Backpacking is not a restaurant.** Keep it simple, high-energy, and easy to prepare. Food strategy should be tested just like gear. Bring foods you know you’ll eat when tired, cold, or hot, and skip anything you won’t want on the trail no matter how healthy it is.
+
+- Stick to boil-only meals — no simmering.
+- Freeze-dried is lighter and lasts longer than most dehydrated meals.
+- Aim for: 50–55% carbs, 30–35% fat, 10–15% protein.
+- Target 125–140 calories per ounce for efficiency.
+- Balance quick sugars with fat and protein to avoid crashes.
+
+---
 
 ## 6. Conditions and How to Handle Them
 
-Backpacking the Sierra in summer means strong sun, cold nights, sudden storms, and mosquitoes — often in the same day. Knowing what to expect and how to prepare makes all the difference.
+In the Sierra, you’ll often get **strong sun, cold nights, sudden storms, and mosquitoes in the same trip**. Plan for all of it.
 
-### Sun and Heat
+**Sun and Heat**
+- Wear long sleeves, pants, sunglasses, and a wide-brim hat.
+- Use breathable, quick-drying fabrics. Avoid cotton.
+- Sip water steadily; add electrolytes in hot conditions.
+- Rest in shade during the hottest hours instead of pushing through.
 
-- UV exposure is intense at altitude. Wear long sleeves, pants, sunglasses, and a wide-brimmed hat.
-- Choose breathable, fast-drying fabrics like wool or synthetic. Avoid cotton.
-- Sip water steadily and use electrolytes when sweating heavily.
+**Cold and Night**
+- Expect nights in the 30s. Bring a 30°F-rated bag or quilt.
+- Fleece or active insulation for hiking; puffy for camp.
+- Sleep in dry socks and a base layer top.
 
-### Cold and Night
+**Rain and Wind**
+- Thunderstorms often hit in the afternoon. Be off ridges early.
+- Always carry a rain shell.
+- Camp in sheltered spots and pitch low in high winds.
 
-- Night temps often drop into the 30s. Bring a 30°F-rated sleep system and warm layers.
-- A fleece or active insulation layer is for hiking. A puffy is for camp.
-- Sleep in dry socks and a base layer top. Don’t rely on your hiking clothes staying dry.
+**Bugs**
+- Mosquitoes are worst June–mid August.
+- Treat clothes with permethrin.
+- Use picaridin on exposed skin.
+- Head net for camp sanity.
 
-### Rain and Wind
+---
 
-- Thunderstorms are common in the afternoon. Be off ridges and passes by early afternoon.
-- Always carry a rain shell. Even short storms can lead to cold stress.
-- Wind can hit fast. Camp in sheltered spots and pitch your shelter low and tight.
+## 7. Foot Care and Footwear
 
-### Bugs
+Your feet carry you the whole way — **protect them like your trip depends on it**.
 
-- Mosquitoes are active June through mid-August, especially near water at dusk.
-- Treat clothes with permethrin before the trip.
-- Use picaridin lotion on exposed skin. It’s effective and gear-safe.
-- A head net helps in camp.
+- Trail runners are lighter and dry faster than boots for most summer trips.
+- Break shoes in before the trip.
+- Trim toenails short.
+- Bring two pairs of socks; rotate daily.
+- Address hotspots immediately.
+- Heel lock lacing prevents sliding, blisters, and toe bang.
 
-### Foot Care and Footwear
+---
 
-- Rocky trails and long descents are standard. Trail runners or boots both work — just make sure they fit and dry quickly.
-- Trim toenails to prevent black nails and pressure blisters.
-- Bring two pairs of socks. Rotate daily and dry them during breaks.
-- Use heel lock lacing to reduce sliding, blisters, and toe bang.
+## 8. Campsite Selection and Shelter Setup
 
+A good campsite means **better sleep and fewer problems**.
 
-## 7. Campsite Selection and Shelter Setup
-Practical campsite criteria, plus how to set up a storm-worthy shelter.
+- Pick flat, durable ground with wind protection.
+- Avoid dips, slopes, and flood-prone spots.
+- Stay at least 200 feet from water and trails.
+- Check overhead for dead branches or leaning trees.
+- Clear sharp rocks and sticks before pitching.
 
-- Look for flat, durable ground with some wind protection
-- Avoid dips, slopes, and signs of pooling water
-- Stay at least 200 feet from water and trails
-- Check above for dead branches or leaning trees ("widowmakers")
-- Clear sharp rocks, sticks, and pinecones before pitching
+---
 
-## 8. Hygiene
+## 9. Hygiene
 
-- Wash hands often. Hand hygiene is the #1 way to prevent getting sick.
-- Consider a nightly wipe down of your body to stay clean.
-- Bring a sealable bag and pack out all used toilet paper or wipes.
+Stay clean enough to stay healthy. **Soap beats sanitizer in camp**.
 
-## 9. First Aid
+- Wash hands after the bathroom, before eating, after collecting water, and after fishing.
+- Soap sheets are lighter and easier than liquid soap.
+- Wipe down face, feet, pits, and groin at camp.
+- Pack out all used toilet paper or wipes in a sealed bag.
 
-- Carry the medications you personally need. Forgetting a daily med can end your trip.
-- Bring a few pain relievers — they help with soreness, injuries, and unexpected aches.
-- Digestive issues are common. A couple Imodium or antacids can save the day.
-- Treat blisters early. Leukotape or moleskin work well if applied before they get worse.
-- Clean and cover small cuts to prevent infection. Don’t ignore them just because they’re minor.
+---
 
-## 10. Water Strategy and Filter Use
+## 10. First Aid
 
-- Always treat your water. Clear streams can still carry Giardia.
-- Use separate containers for dirty and clean water to avoid contamination.
-- Camel up at water sources by drinking a full liter before hiking on.
-- Let silty water settle before filtering to prevent clogs.
-- If freezing temps are expected, keep your filter inside your sleep setup. A frozen filter is no longer safe.
+Your kit should match the problems you’re most likely to face.
 
-## 11. Sierra-Specific Hazards
+- Bring your personal meds — missing a daily dose can end a trip.
+- Pack a few pain relievers.
+- Carry Imodium or antacids for gut issues.
+- Treat blisters early with Leukotape or moleskin.
+- Clean and cover small cuts to prevent infection.
 
-The Sierra presents unique risks even in summer. Know what to expect and how to respond.
+---
 
-- Sun: Intense UV at elevation. Wear long sleeves, a hat, and sunglasses.
-- Altitude: Symptoms like headache and nausea can hit above 8,000 ft. Ascend gradually, hydrate, and rest if needed.
-- Dehydration: Drink steadily throughout the day. Don’t rely on thirst.
-- Storms: Thunderstorms build quickly. Be off exposed ridges by early afternoon.
-- Cold: Nights can drop below freezing. Sleep in dry clothes and have sufficient insulation.
-- Falls: Stay on trail. Avoid scrambling or climbing unless absolutely necessary. Rock in the Sierra can be loose or slick.
-- 
-## 12. Common Leave No Trace Mistakes
+## 11. Water Strategy and Filter Use
 
-- Dropping small bits of trash like wrappers or bottle caps.
-- Burning trash or food in fire pits.
-- Leaving food waste behind. Scraps, peels, shells, and crumbs don’t break down and attract animals.
-- Leaving food or smelly items unattended, even briefly.
-- Leaving toilet paper or wipes buried or exposed. Pack them out.
+Water keeps you moving — **have a reliable primary and backup method**.
 
+- Always treat water, no matter how clear it looks.
+- Keep dirty and clean containers separate.
+- Drink a liter at each water stop (“camel up”).
+- Let silty water settle before filtering.
+- Sleep with your filter in freezing temps.
+- Carry backup tablets (Micropur or chlorine dioxide).
 
-## Misc tips and addtional reading
+---
 
-- For product-specific recommendations, see the [Gear Selection Guide](gear-advice.md).
+## 12. Sierra-Specific Hazards
 
-https://www.rei.com/learn/expert-advice/layering-basics.html
+The Sierra looks friendly until it isn’t. **Know the risks and plan accordingly**.
 
-https://www.rei.com/learn/expert-advice/meal-planning-for-ultralight-backpacking.html
+- Sun: High UV — long sleeves, hat, sunglasses.
+- Altitude: Above 8,000 ft, ascend slowly, hydrate, rest if sick.
+- Dehydration: Drink steadily; don’t rely on thirst.
+- Storms: Off ridges by early afternoon.
+- Cold: Nights below freezing are possible — have insulation.
+- Falls: Stay on trail; Sierra rock can be loose.
 
-https://www.rei.com/learn/expert-advice/how-to-pack-for-ultralight-backpacking.html
+---
 
-When on the trail
-- Don’t hike far ahead or fall far behind without saying something
-- Wait at trail junctions if you’re unsure where the group went
-- Speak up if you’re tired, overheated, cold, or unsure — early is best
+## 13. Leave No Trace Mistakes
 
-When setting up camp
-- Avoid dips or depressions. Even dry ground can flood during a storm.
-- Always check above your shelter site — avoid dead trees and loose branches.
-- 
+Most violations aren’t dramatic — they’re small, lazy mistakes. **Don’t be that person**.
+
+- Dropping micro-trash.
+- Burning trash in fire pits.
+- Leaving food waste (scraps, peels, crumbs).
+- Leaving smelly gear unattended.
+- Leaving toilet paper exposed or buried.
