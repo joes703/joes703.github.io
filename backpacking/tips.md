@@ -188,3 +188,7 @@ Most violations aren’t dramatic — they’re small, lazy mistakes. **Don’t 
 - Leaving food waste (scraps, peels, crumbs).
 - Leaving smelly gear unattended.
 - Leaving toilet paper exposed or buried.
+
+---
+
+See my [gear guide](gear.md) for a list of what you need and some recommendations.
