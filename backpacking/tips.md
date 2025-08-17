@@ -6,8 +6,6 @@ title: Backpacking Tips
 
 This is an opinionated guide to hiking and camping in the Sierra Nevada and similar mountains. Follow these, and you’ll be safe, comfortable, and more likely to have fun.
 
----
-
 ## 1. Required Reading
 
 Before you start asking questions, **get the basics down**. These cover skills, gear, and etiquette that everyone should know.
@@ -16,8 +14,6 @@ Before you start asking questions, **get the basics down**. These cover skills, 
 - [Ultralight Backpacking Basics](https://www.rei.com/learn/expert-advice/ultralight-backpacking.html) — how to cut weight without cutting safety.
 - [Backpacking in Bear Country](https://www.rei.com/learn/expert-advice/backpacking-in-bear-country.html) — Sierra-specific food safety.
 - [Leave No Trace principles](https://lnt.org/why/7-principles/) — the standard for protecting the places you visit.
-
----
 
 ## 2. What You’re Responsible For
 
