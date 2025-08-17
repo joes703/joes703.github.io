@@ -25,8 +25,6 @@ Everyone is responsible for **their own safety, impact, and preparation** — ev
 - Speak up early if you’re uncomfortable, tired, or unsure about a decision.
 - Learn the route and be able to navigate on your own.
 
----
-
 ## 3. Preparation and Testing Before You Go
 
 Most issues on the trail come from lack of preparation, gear that hasn’t been tested, packs that are too heavy, or bodies that aren’t ready for the effort. The goal is to arrive with both equipment and fitness that work for you.
@@ -39,7 +37,6 @@ Most issues on the trail come from lack of preparation, gear that hasn’t been 
 - Navigate with a map and compass or GPS. Don’t rely on someone else.  
 - Treat clothing with permethrin well before the trip to keep mosquitoes down.  
 - Train your body as well as your gear. See [Backpacking Fitness Plan](fitness.md) for tips.  
----
 
 ## 4. Packing Light
 
@@ -57,9 +54,7 @@ The most common beginner mistake is **packing your fears** — bringing extra cl
 >
 > The lighter your pack, the more you’ll enjoy the hike. Heavy gear will slow you down, cause fatigue, and make the trip less fun.
 >
-> Weigh your gear and avoid “just in case” extras. Keep your total weight under 30 lbs with food, water, and fuel. If you can’t, start cutting.
-
----
+> Weigh your gear and avoid “just in case” extras. Keep your total pack weight under 30 lbs with food, water, and fuel. If you can’t, start cutting.
 
 ## 5. What to Eat
 
@@ -70,8 +65,6 @@ The most common beginner mistake is **packing your fears** — bringing extra cl
 - Aim for: 50–55% carbs, 30–35% fat, 10–15% protein.
 - Target 125–140 calories per ounce for efficiency.
 - Balance quick sugars with fat and protein to avoid crashes.
-
----
 
 ## 6. Conditions and How to Handle Them
 
@@ -99,8 +92,6 @@ In the Sierra, you’ll often get **strong sun, cold nights, sudden storms, and 
 - Use picaridin on exposed skin.
 - Head net for camp sanity.
 
----
-
 ## 7. Foot Care and Footwear
 
 Your feet carry you the whole way — **protect them like your trip depends on it**.
@@ -112,8 +103,6 @@ Your feet carry you the whole way — **protect them like your trip depends on i
 - Address hotspots immediately.
 - Heel lock lacing prevents sliding, blisters, and toe bang.
 
----
-
 ## 8. Campsite Selection and Shelter Setup
 
 A good campsite means **better sleep and fewer problems**.
@@ -124,8 +113,6 @@ A good campsite means **better sleep and fewer problems**.
 - Check overhead for dead branches or leaning trees.
 - Clear sharp rocks and sticks before pitching.
 
----
-
 ## 9. Hygiene
 
 Stay clean enough to stay healthy. **Soap beats sanitizer in camp**.
@@ -134,8 +121,6 @@ Stay clean enough to stay healthy. **Soap beats sanitizer in camp**.
 - Soap sheets are lighter and easier than liquid soap.
 - Wipe down face, feet, pits, and groin at camp.
 - Pack out all used toilet paper or wipes in a sealed bag.
-
----
 
 ## 10. First Aid
 
@@ -146,8 +131,6 @@ Your kit should match the problems you’re most likely to face.
 - Carry Imodium or antacids for gut issues.
 - Treat blisters early with Leukotape or moleskin.
 - Clean and cover small cuts to prevent infection.
-
----
 
 ## 11. Water Strategy and Filter Use
 
@@ -160,8 +143,6 @@ Water keeps you moving — **have a reliable primary and backup method**.
 - Sleep with your filter in freezing temps.
 - Carry backup tablets (Micropur or chlorine dioxide).
 
----
-
 ## 12. Sierra-Specific Hazards
 
 The Sierra looks friendly until it isn’t. **Know the risks and plan accordingly**.
@@ -173,8 +154,6 @@ The Sierra looks friendly until it isn’t. **Know the risks and plan accordingl
 - Cold: Nights below freezing are possible — have insulation.
 - Falls: Stay on trail; Sierra rock can be loose.
 
----
-
 ## 13. Leave No Trace Mistakes
 
 Most violations aren’t dramatic — they’re small, lazy mistakes. **Don’t be that person**.
@@ -184,7 +163,5 @@ Most violations aren’t dramatic — they’re small, lazy mistakes. **Don’t 
 - Leaving food waste (scraps, peels, crumbs).
 - Leaving smelly gear unattended.
 - Leaving toilet paper exposed or buried.
-
----
 
 See my [gear guide](gear.md) for a list of what you need and some recommendations.
