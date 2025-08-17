@@ -33,16 +33,16 @@ Everyone is responsible for **their own safety, impact, and preparation** — ev
 
 ## 3. Preparation and Testing Before You Go
 
-This is where most problems start: **people show up with gear they’ve never used or that doesn’t fit**. Your goal is to arrive with a kit you’ve already proven works for you.
+Most issues on the trail come from lack of preparation, gear that hasn’t been tested, packs that are too heavy, or bodies that aren’t ready for the effort. The goal is to arrive with both equipment and fitness that work for you.
 
-- Set up and take down your shelter until you can do it in the dark and wind.
-- Use your water filter; confirm it flows well and doesn’t leak.
-- Sleep in your system at home or on a short trip to check warmth and comfort.
-- Boil water with your stove and confirm how much fuel you’ll actually use.
-- Load your pack with everything you plan to bring and hike a few miles to check fit.
-- Navigate with a map and compass or GPS — don’t rely on someone else.
-- Treat clothing with permethrin well before the trip to keep mosquitoes down.
-
+- Set up and take down your shelter until you can do it in the dark and wind.  
+- Use your water filter; confirm it flows well and doesn’t leak.  
+- Sleep in your system at home or on a short trip to check warmth and comfort.  
+- Boil water with your stove and confirm how much fuel you’ll actually use.  
+- Load your pack with everything you plan to bring and hike a few miles to check comfort and balance.  
+- Navigate with a map and compass or GPS. Don’t rely on someone else.  
+- Treat clothing with permethrin well before the trip to keep mosquitoes down.  
+- Train your body as well as your gear. See [Backpacking Fitness Plan](fitness.md) for tips.  
 ---
 
 ## 4. Packing Light
