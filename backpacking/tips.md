@@ -58,13 +58,12 @@ The most common beginner mistake is **packing your fears** — bringing extra cl
 
 ## 5. What to Eat
 
-**Backpacking is not a restaurant.** Keep it simple, high-energy, and easy to prepare. Food strategy should be tested just like gear. Bring foods you know you’ll eat when tired, cold, or hot, and skip anything you won’t want on the trail no matter how healthy it is.
+Keep it simple, high-energy, and easy to prepare. Test your food strategy just like your gear. Bring foods you know you’ll eat when tired, cold, or hot, and skip anything you won’t want on the trail no matter how healthy it looks.
 
-- Stick to boil-only meals — no simmering.
-- Freeze-dried is lighter and lasts longer than most dehydrated meals.
-- Aim for: 50–55% carbs, 30–35% fat, 10–15% protein.
-- Target 125–140 calories per ounce for efficiency.
-- Balance quick sugars with fat and protein to avoid crashes.
+- Stick to freeze-dried meals that only require boiling water. These are simple and use much less fuel than simmering.  
+- Aim for about 50–55% carbs, 30–35% fat, and 10–15% protein.  
+- Target 125–140 calories per ounce for efficiency.  
+- Balance quick carbs with fat and protein to avoid energy crashes.  
 
 ## 6. Conditions and How to Handle Them
 
