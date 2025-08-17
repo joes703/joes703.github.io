@@ -58,7 +58,7 @@ The most common beginner mistake is **packing your fears** — bringing extra cl
 
 ## 5. What to Eat
 
-Keep it simple, high-energy, and easy to prepare. Test your food strategy just like your gear. Bring foods you know you’ll eat when tired, cold, or hot, and skip anything you won’t want on the trail no matter how healthy it looks.
+Keep it simple, high-energy, and easy to prepare. Bring foods you know you’ll eat when tired, cold, or hot, and skip anything you won’t want on the trail no matter how healthy it looks.
 
 - Stick to freeze-dried meals that only require boiling water. These are simple and use much less fuel than simmering.  
 - Aim for about 50–55% carbs, 30–35% fat, and 10–15% protein.  
