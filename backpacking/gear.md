@@ -99,7 +99,7 @@ Choose a shelter in the 1–3 lb range that is storm-worthy, ventilated, and eas
 ---
 ### Sleep System
 
-For Sierra summer trips, a quilt or sleeping bag with a 20–30°F rating offers the best mix of warmth and versatility. Pair it with a sleeping pad rated R-4.0 or higher to stay insulated on granite or other cold ground. Focus on warmth-to-weight ratio, comfort, and packability over chasing the absolute lightest option. Down remains the standard for its excellent warmth and compressibility, and with modern shell fabrics and water-resistant treatments, moisture concerns are minimal when you store it properly. Skip heavy synthetic bags without a tested rating and avoid pads below R-3.5 for high-elevation camping.
+For Sierra summer trips, a quilt or sleeping bag with a 20–30°F rating offers the best mix of warmth and versatility, since nights can still dip near freezing. Pair it with a sleeping pad rated R-4.0 or higher to stay insulated on granite or other cold ground, which often causes more heat loss than air temperature alone. Down is lighter, warmer for its weight, more compressible, resists water better, dries faster, and is more comfortable when wet. The only real reasons to pick synthetic are lower cost, easier care, ethical preference, or if you don’t mind the extra bulk.
 
 **Top Picks – Quilts & Sleeping Bags (under $400)**
 - EE Enigma 20°F Quilt – Ultralight, customizable, proven favorite
