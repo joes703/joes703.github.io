@@ -67,7 +67,28 @@ Keep it simple, high-energy, and easy to prepare. Bring foods you know you’ll 
 
 ## 6. Conditions and How to Handle Them
 
-In the Sierra, you’ll often get **strong sun, cold nights, sudden storms, and mosquitoes in the same trip**. Plan for all of it.
+In the Sierra, you’ll often get **rain & thunderstorms, strong sun, cold nights, and mosquitoes in the same trip**. Plan for all of it.
+
+**Rain**
+Backpacking in the rain is manageable with the right gear and mindset. The main concern is not rain by itself, but the combination of rain, wind, and cold, which can lead to hypothermia if you are not prepared.
+
+Your priority is keeping your critical insulation dry. This includes your quilt or sleeping bag, sleep clothes, and puffy. These items should be packed in a waterproof liner and remain sealed until camp. If you normally don’t pack extra clothing, you may want to reconsider on trips where there will be significant rain.
+
+Your priority is keeping your critical insulation dry. This includes your quilt or sleeping bag, sleep clothes, and puffy. These items should be packed in a waterproof liner and remain sealed until camp. If you normally don’t pack dedicated sleep clothing, you may want to reconsider on trips where there will be significant rain. Having a dry layer to change into at camp is not just about comfort. It is your backup if you arrive soaked and need to retain body heat. Even a thin baselayer and dry socks can make the difference between warming up and staying cold all night.
+
+Afternoon thunderstorms are common in the Sierra during summer, so your route and timing should reflect that pattern. You should be off exposed passes and ridges well before storm buildup begins. Rain reduces your margin for error. Sound decisions about when to move, where to camp, and what to protect are more important than the gear itself.
+
+Bring these items to deal with rain.
+- Rain jacket or poncho  
+- Dry layers to wear at camp. Do not hike in them  
+- At least two pairs of merino or wool socks: one for hiking, one for sleeping. Keep the sleeping pair dry  
+- Camp chair, since the ground will be wet  
+
+Tips on dealing with rain.
+- Keep your sleeping bag or quilt, puffy, camp clothes, and dry socks sealed in a waterproof bag  
+- Do not rely on waterproof shoes. Use breathable shoes that drain and dry quickly  
+- If your shoes are soaked, wear dry socks inside bread bags to stay warm at camp  
+- Take off wet socks and shoes during long breaks to help your feet dry and recover  
 
 **Sun and Heat**
 - Wear long sleeves, pants, sunglasses, and a wide-brim hat.
@@ -79,11 +100,6 @@ In the Sierra, you’ll often get **strong sun, cold nights, sudden storms, and 
 - Expect nights in the 30s. Bring a 30°F-rated bag or quilt.
 - Fleece or active insulation for hiking; puffy for camp.
 - Sleep in dry socks and a base layer top.
-
-**Rain and Wind**
-- Thunderstorms often hit in the afternoon. Be off ridges early.
-- Always carry a rain shell.
-- Camp in sheltered spots and pitch low in high winds.
 
 **Bugs**
 - Mosquitoes are worst June–mid August.
