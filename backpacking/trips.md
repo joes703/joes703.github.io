@@ -11,6 +11,14 @@ title: Backpacking Trips
 
 ## Past Trips
 
+### 2025 - Ansel Adams Wilderness, Inyo NF
+- **When:** August 21-24 (3 nights)
+- **Where:** Garnet Lake, Ediza Lake, Minaret Lake
+- **Who:** Joe, Travis, Dylon, Emmanuel, Jesse 
+- **Distance:** 29.5 mi / 47.5 km; 5096' total elevation gain
+- **Map:** [CalTopo Map](https://caltopo.com/m/27S5E48)
+- **Photos:** [View Album](https://www.icloud.com/sharedalbum/#B2dG4VTwGGyZdqv)
+
 ### 2025 - Ansel Adams Wilderness, Sierra NF
 
 - **When:** August 8-11 (3 nights)
@@ -19,7 +27,6 @@ title: Backpacking Trips
 - **Distance:** 20.42 mi / 32.86 km 
 - **Map:** [CalTopo Map](https://caltopo.com/m/27S5E48)
 - **Photos:** [View Album](https://www.icloud.com/sharedalbum/#B2dG4VTwGGyZdqv)
-
 
 ### 2024 - Emigrant Wilderness, Stanislaus NF
 

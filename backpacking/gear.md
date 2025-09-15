@@ -151,7 +151,14 @@ In most of the Sierra, a bear canister is required, so start with one that’s a
 
 ### Water Filtration
 
-A lightweight squeeze or gravity filter is the simplest and most reliable choice for Sierra trips. Pair it with a 2–3L dirty water bag and at least 1L of clean water carry. Match your filter to your water bag threading: the Katadyn BeFree uses 42mm threads, while the Sawyer Squeeze, Sawyer Mini, and Platypus QuickDraw use 28mm. CNOC Vecto bags remain a top choice for fast water collection thanks to their wide opening, durability, and packability. Avoid straw-style filters that require you to drink directly from the source, and be careful not to cross-contaminate clean and dirty containers. Always test and soak your filter before the trip to ensure it flows well. For long carries, keep at least a liter of clean water between sources—more in dry or exposed sections. Also carry a small backup treatment method like Katadyn Micropur or chlorine dioxide tablets in case your filter clogs, freezes, or is lost.
+A lightweight squeeze filter is the simplest and most reliable choice for Sierra trips. Pair it with a 2–3L dirty water bag and at least 1L of clean water carry. Match your filter to your water bag threading: the Katadyn BeFree uses 42mm threads, while the Sawyer Squeeze, Sawyer Mini, and Platypus QuickDraw use 28mm. CNOC Vecto bags remain a top choice for fast water collection thanks to their wide opening, durability, and packability. Always test and soak your filter before the trip to ensure it flows well. For long carries, keep at least a liter of clean water between sources—more in dry or exposed sections. Also carry a small backup treatment method like Katadyn Micropur or chlorine dioxide tablets in case your filter clogs, freezes, or is lost.
+
+Avoid these:
+- Pump Filters: Pump filters are ancient, and no longer relevant to the modern hiker. Simply put, squeeze-based filters are easier and faster to use, and more reliable. Never purchase a pump filter.
+- Gravity Filters: While gravity filters have relevance to group base camping, they are bad for filtering on the go. The fastest and most efficient group system is if everyone carries and manages their own squeeze based system.
+- UV Pens: UV pens are not reliable enough, have finnicky parts, and do poorly with really dirty water. Never use UV filters.
+- Straw-Based Filters: Why filter straight out of a water source when you could instead put that water into a 1-3 liter vessel and drink from it? Never purchase straw-based filters.
+
 
 **Top Picks – Filters**
 - Katadyn BeFree – Fastest flow rate, simple swish-to-clean maintenance; not backflushable and needs more frequent replacement
