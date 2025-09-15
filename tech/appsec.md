@@ -82,6 +82,23 @@ layout: default
   - Logging & Monitoring Failures  
   - SSRF / Other
 
+- **API Security**  
+  - Study the [OWASP API Security Top 10](https://owasp.org/API-Security/)  
+  - Common flaws: Broken object-level auth, mass assignment, excessive data exposure
+
+- **Secure Coding Essentials**  
+  - Validate inputs (allowlists > blacklists)  
+  - Use secure password storage (bcrypt/argon2)  
+  - Don’t roll your own crypto (use vetted libraries)  
+  - Handle errors safely (no sensitive info in stack traces)  
+  - Apply principle of least privilege
+
+- **Secrets & Key Management**  
+  - Never hardcode secrets in code  
+  - Use vaults: HashiCorp Vault, AWS Secrets Manager, GCP Secret Manager  
+  - Rotate and expire API keys/tokens regularly  
+  - Scan repos with [Gitleaks](https://github.com/gitleaks/gitleaks) or [git-secrets](https://github.com/awslabs/git-secrets)
+
 - **Tools**  
   - Browser DevTools (network tab, storage, console)  
   - Burp Suite Community Edition  
@@ -90,7 +107,9 @@ layout: default
 
 ---
 
-## Section E — Labs (do these in order)
+## Section E — Labs (breaking focus)
+
+*Goal: understand how vulnerabilities work by exploiting them.*
 
 1. [PortSwigger Web Security Academy](https://portswigger.net/web-security)  
 2. [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/)  
@@ -106,7 +125,9 @@ layout: default
 
 ---
 
-## Section F — Code Review & Open Source Tools
+## Section F — Code Review & Open Source Tools (defending focus)
+
+*Goal: learn how to spot and prevent flaws in code before they ship.*
 
 - **Static analysis / SAST**  
   - [Semgrep](https://semgrep.dev/)  
@@ -128,16 +149,32 @@ layout: default
 
 ---
 
-## Section G — Build & Break (capstone project)
+## Section G — Build & Break (combined)
+
+*Goal: learn both sides by building vulnerable features, breaking them, then fixing them.*
 
 - Build a small app with: auth + sessions + DB + REST API + frontend  
 - Intentionally add: SQLi, XSS, auth bypass  
-- Exploit, then fix  
+- Exploit → document impact → fix  
+- Add secure patterns: parameterized queries, CSRF tokens, input validation, secure session cookies  
 - Write up steps → publish on GitHub/blog
 
 ---
 
-## Section H — Practice & Portfolio
+## Section H — AppSec in the SDLC (where to apply each skill)
+
+- **Design phase** → Threat modeling  
+- **Coding phase** → Secure coding practices, linting, pre-commit hooks  
+- **Code review** → SAST (Semgrep, CodeQL), manual secure code checklist  
+- **CI/CD** → Dependency scanning (Trivy, Dependency-Check), secret scanning, automated tests  
+- **Deployment** → Secure configs, hardened defaults, TLS everywhere  
+- **Maintenance** → Patch dependencies, rotate secrets, monitor logs
+
+- Reference: [OWASP SAMM](https://owaspsamm.org/) — maturity model for building AppSec into organizations
+
+---
+
+## Section I — Practice & Portfolio
 
 - Publish 3+ lab reports (PortSwigger / Juice Shop / PentesterLab)  
 - GitHub repo: CRUD app, threat model, security tool configs  
@@ -145,7 +182,7 @@ layout: default
 
 ---
 
-## Section I — Next Steps
+## Section J — Next Steps
 
 - Optional certs: Security+ early, OSWE/OSCP later  
 - Target roles: AppSec engineer, secure code reviewer, security-minded developer  
@@ -153,7 +190,7 @@ layout: default
 
 ---
 
-## Section J — How AI Can Help You
+## Section K — How AI Can Help You
 
 - Debugging: explain stack traces, error messages  
 - Study mode: turn notes into flashcards, generate practice quizzes  
