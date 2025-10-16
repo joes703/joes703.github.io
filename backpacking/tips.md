@@ -56,16 +56,10 @@ These tips reflect what keeps our trips safe and enjoyable year after year. They
   Everyone’s safety and enjoyment depend on good communication and cooperation. When we look out for each other, everyone has a better trip.
 
 - **Take care of the places you visit.**  
-  Follow local rules and Leave No Trace principles. Camp on durable surfaces, pack out trash, and keep campsites cleaner than you found them. Pack out all paper waste and stay away from water sources when washing or using the bathroom.
-
-## Further Reading
-- REI’s [Intro to Backpacking](https://www.rei.com/learn/series/intro-to-backpacking) — if you're new to backpacking, read the full series.
-- [Ultralight Backpacking Basics](https://www.rei.com/learn/expert-advice/ultralight-backpacking.html) — how to cut weight without cutting safety.
-- [Backpacking in Bear Country](https://www.rei.com/learn/expert-advice/backpacking-in-bear-country.html) — Sierra-specific food safety.
-- [Leave No Trace principles](https://lnt.org/why/7-principles/) — the standard for protecting the places you visit.
-  
+  Follow local rules and [Leave No Trace principles](https://lnt.org/why/7-principles/). Camp on durable surfaces, pack out trash, and keep campsites cleaner than you found them. Pack out all paper waste and stay away from water sources when washing or using the bathroom.
 
 
 
-  
+
+
 Updated: October 2025
