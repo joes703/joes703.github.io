@@ -1,6 +1,7 @@
 ---
 title: Backpacking Tips
 ---
+# Backpacking Tips
 
 ## Why Go Backpacking
 
