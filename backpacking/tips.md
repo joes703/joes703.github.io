@@ -12,17 +12,17 @@ These tips reflect what keeps our trips safe and enjoyable year after year. They
 
 ### Be Prepared
 
+- **Get organized early.**  
+  Start planning your trip well ahead of time, especially the first one of the season. Use a checklist so nothing gets left behind, and give yourself time to replace or repair gear before you need it.
+
 - **Preparation prevents problems.**  
-  Most issues start before the trail — from untested gear, poor planning, or skipped training. Plan with margin and test your setup.  
+  Most problems start before the trail, from untested gear, poor planning, or skipped training. Test critical gear (shelter, stove, pad, and water filter) ahead of time in case something needs to be repaired or replaced.
 
 - **Get in shape for the trip.**  
-  Hiking is one thing; hiking with weight at elevation is another. Build fitness before you go so you can handle climbs, descents, and thinner air safely.  
+  Backpacking takes effort. Train early and build fitness so climbs, descents, and elevation feel manageable instead of punishing.  
 
-- **Protect what keeps you alive.**  
-  Keep your sleep system, insulation, and shelter dry and functional. Safeguard the gear your safety depends on.  
-
-- **The wilderness sets the terms.**  
-  Start early, stay observant, and adjust your plans to conditions instead of forcing them. Adaptability is part of safety.  
+- **Know the weather.**  
+  Check the forecast before you go and pack for changing conditions, not just what you hope to get. Bring enough to stay warm and dry if it rains.  
 
 ### Be Light
 
