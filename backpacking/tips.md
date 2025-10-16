@@ -22,13 +22,13 @@ These tips reflect what keeps our trips safe and enjoyable year after year. They
 - **Get in shape for the trip.**  
   Backpacking takes effort. Train early and build fitness so climbs, descents, and elevation feel manageable instead of punishing.  
 
-- **Know the weather.**  
-  Check the forecast before you go and pack for changing conditions, not just what you hope to get. Bring enough to stay warm and dry if it rains.  
+- **Know the conditions.**  
+  In the Sierra, you’ll often get rain and thunderstorms, strong sun, cold nights, and mosquitoes in the same trip. Be ready for all of it.
 
 ### Be Light
 
-- **The weight you carry shapes your trip.**  
-  Every extra pound costs effort and energy. A lighter pack makes hiking easier and camp life simpler, but balance matters more than chasing numbers. Weighing your gear is the first step to knowing if you need to lighten your load. 
+- **The weight you carry affects your trip.**  
+  Every extra ounce costs effort and energy. A lighter pack is one of the best improvements you can make to your backpacking. Weighing your gear is the first step to knowing where to cut weight. For most 4-day trips, total pack weights around 20–25 lb are common, and if you’re above 30 lb, you’re probably carrying more than you need.
 
 - **Eliminate before you upgrade.**  
   Simplifying is better than upgrading. Leave behind what you don’t need before buying lighter versions of what you do. 
@@ -41,14 +41,14 @@ These tips reflect what keeps our trips safe and enjoyable year after year. They
 - **Pay attention to the weather.**  
   Watch for changing wind, clouds, or temperature drops so you can react before a storm builds.
 
+- **Know where you are and where you’re going.**
+  Always be able to navigate on your own. Check the map often enough that you could find your way if separated from the group.
+
 - **Take care of small problems early.**  
   Hot spots become blisters and damp clothes become cold fast. Fix small issues as soon as you notice them.
 
 - **Choose safe campsites.**  
   Avoid setting up under dead branches, in low areas that collect water, or on exposed ridges. 
-
-- **Stay ahead of hydration and salt.**  
-  You lose more water and electrolytes on trail than you think. Drink steadily and replace salt throughout the day to avoid fatigue or cramps.
 
 ### Be Respectful
 
@@ -58,9 +58,11 @@ These tips reflect what keeps our trips safe and enjoyable year after year. They
 - **Take care of the places you visit.**  
   Follow local rules and Leave No Trace principles. Camp on durable surfaces, pack out trash, and keep campsites cleaner than you found them. Pack out all paper waste and stay away from water sources when washing or using the bathroom.
 
-  
-
-
+## Additional Reading 
+- REI’s [Intro to Backpacking](https://www.rei.com/learn/series/intro-to-backpacking) — if you're new to backpacking, read the full series.
+- [Ultralight Backpacking Basics](https://www.rei.com/learn/expert-advice/ultralight-backpacking.html) — how to cut weight without cutting safety.
+- [Backpacking in Bear Country](https://www.rei.com/learn/expert-advice/backpacking-in-bear-country.html) — Sierra-specific food safety.
+- [Leave No Trace principles](https://lnt.org/why/7-principles/) — the standard for protecting the places you visit.
 
 
 
