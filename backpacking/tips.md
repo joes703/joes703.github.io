@@ -28,7 +28,7 @@ These tips reflect what keeps our trips safe and enjoyable year after year. They
 ### Be Light
 
 - **The weight you carry affects your trip.**  
-  Every extra ounce costs effort and energy. A lighter pack is one of the best improvements you can make to your backpacking. Weighing your gear is the first step to knowing where to cut weight. For most 4-day trips, total pack weights around 20–25 lb are common, and if you’re above 30 lb, you’re probably carrying more than you need.
+  Every extra ounce costs effort and energy. A lighter pack is one of the best improvements you can make to your backpacking experience. Weighing your gear is the first step to knowing where to cut weight. For most 4-day trips, total pack weights around 20–25 lb are common, and if you’re above 30 lb, you’re probably carrying more than you need.
 
 - **Eliminate before you upgrade.**  
   Simplifying is better than upgrading. Leave behind what you don’t need before buying lighter versions of what you do. 
@@ -41,7 +41,7 @@ These tips reflect what keeps our trips safe and enjoyable year after year. They
 - **Pay attention to the weather.**  
   Watch for changing wind, clouds, or temperature drops so you can react before a storm builds.
 
-- **Know where you are and where you’re going.**
+- **Know where you are and where you’re going.**  
   Always be able to navigate on your own. Check the map often enough that you could find your way if separated from the group.
 
 - **Take care of small problems early.**  
@@ -58,14 +58,14 @@ These tips reflect what keeps our trips safe and enjoyable year after year. They
 - **Take care of the places you visit.**  
   Follow local rules and Leave No Trace principles. Camp on durable surfaces, pack out trash, and keep campsites cleaner than you found them. Pack out all paper waste and stay away from water sources when washing or using the bathroom.
 
-## Additional Reading 
+## Further Reading
 - REI’s [Intro to Backpacking](https://www.rei.com/learn/series/intro-to-backpacking) — if you're new to backpacking, read the full series.
 - [Ultralight Backpacking Basics](https://www.rei.com/learn/expert-advice/ultralight-backpacking.html) — how to cut weight without cutting safety.
 - [Backpacking in Bear Country](https://www.rei.com/learn/expert-advice/backpacking-in-bear-country.html) — Sierra-specific food safety.
 - [Leave No Trace principles](https://lnt.org/why/7-principles/) — the standard for protecting the places you visit.
+  
 
 
 
-
-
-  Updated: October 2025
+  
+Updated: October 2025
