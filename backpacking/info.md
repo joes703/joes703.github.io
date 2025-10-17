@@ -38,7 +38,7 @@ Wilderness regulations must be followed at all times. Food storage rules are str
 ## Health and Safety
 You should not join a trip if you are sick or unfit for the planned mileage or elevation.  
 
-If you have a medical condition that could affect your safety, please inform me discreetly before the trip. The group will always provide support in an emergency, but each person is expected to come prepared so that preventable problems don’t put themselves or others at risk.  
+If you have a medical condition that could affect your safety, please consider informing me discreetly before the trip. The group will always provide support in an emergency, but each person is expected to come prepared so that preventable problems don’t put themselves or others at risk.  
 
 Most trips take place between 7,000 and 10,500 feet. High elevation affects people in different ways. Altitude sickness can cause shortness of breath, fatigue, headache, and nausea, even in otherwise healthy hikers. Be aware of the symptoms, pace yourself, stay hydrated, and communicate if you are not feeling well. Acclimatization helps; consider arriving a day early or doing shorter hikes first to adjust.  
 
