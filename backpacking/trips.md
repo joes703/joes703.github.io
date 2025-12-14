@@ -15,7 +15,7 @@ title: Backpacking Trips
 - **When:** August 21-24 (3 nights)
 - **Where:** Garnet Lake, Ediza Lake, Minaret Lake
 - **Who:** Joe, Travis, Dylon, Emmanuel, Jesse 
-- **Distance:** 29.5 mi / 47.5 km; 5096' total elevation gain
+- **Distance:** 29.5 mi / 47.5 km; 5,096' total elevation gain
 - **Map:** [CalTopo Map](https://caltopo.com/m/27S5E48)
 - **Photos:** [View Album](https://www.icloud.com/sharedalbum/#B2dG4VTwGGyZdqv)
 
@@ -24,7 +24,7 @@ title: Backpacking Trips
 - **When:** August 8-11 (3 nights)
 - **Where:** Lillian Lake, Rainbow Lake, Lady Lake
 - **Who:** Joe, Robert, Eric, Travis, Dylon, Emmanuel, Carlos, Serge, Lisa 
-- **Distance:** 20.42 mi / 32.86 km 
+- **Distance:** 20.42 mi / 32.86 km; 3,885' elevation gain
 - **Map:** [CalTopo Map](https://caltopo.com/m/27S5E48)
 - **Photos:** [View Album](https://www.icloud.com/sharedalbum/#B2dG4VTwGGyZdqv)
 
