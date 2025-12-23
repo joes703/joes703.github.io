@@ -4,6 +4,8 @@ title: Backpacking Tips
 
 # Backpacking Tips
 
+These tips are meant to be read as guidance. They reflect habits, decisions, and skills that tend to make backpacking trips safer, lighter, and more enjoyable.
+
 **1. Prepare early**  
 Start training your body early and often. Train with a loaded pack to get used to the fit and feel of the pack. Well ahead of a trip, you should inspect and test all of your gear so you have time to repair or replace anything that fails. Practice setting up your shelter often until you can do it quickly and correctly. Using a checklist will help you stay organized and avoid forgetting to bring anything.
 
