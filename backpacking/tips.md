@@ -19,9 +19,7 @@ Know where you are and where you are headed, and be able to navigate on your own
 Choose your campsite with care. Avoid dead trees, low drainages, and exposed ridges where wind and water can create issues. Look for firm ground with natural wind protection and good drainage. When you arrive, set up and secure your shelter first. Clear sharp debris and ventilate the shelter to reduce condensation overnight. Filter water for dinner and the next morning as soon as you reach camp. Change into dry clothes if you got wet. Cook away from your shelter and store all food and scented items securely. Before leaving, check the site for trash and forgotten gear.
 
 **5. Eat and hydrate well**  
-Choose food that supports long effort, not short bursts. Most on-trail energy comes from fat and complex carbohydrates, so plan meals around them. Expect to burn more calories than you eat and plan accordingly.  
-Eat regularly through the day to maintain energy and support recovery. Include some protein with carbs to help your body repair after hiking.  
-Drink when you are thirsty and replace the salt you lose using electrolytes.
+Choose food that supports long effort, not short bursts. Most on-trail energy comes from fat and complex carbohydrates, so plan meals around them. Expect to burn more calories than you eat and plan accordingly. Eat regularly through the day to maintain energy and support recovery. Include some protein with carbs to help your body repair after hiking. Drink when you are thirsty and replace the salt you lose using electrolytes.
 
 **6. Hygiene and foot care**  
 Wash your hands with soap before eating and after using the bathroom; sanitizer alone is not enough. Wipe down your body each evening to remove sweat, sunscreen, and grit. Take care of your feet. Wash or wipe them daily, change socks when they get wet, and air them out during breaks. Treat hot spots as soon as you feel them to prevent blisters. Trim toenails before the trip to avoid bruising or loss on long descents. Carry a small first aid kit with the basics for minor injuries and common issues.
