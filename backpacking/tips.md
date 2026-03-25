@@ -4,19 +4,19 @@ title: Backpacking Tips
 
 # Backpacking Tips
 
-These tips are meant to be read as guidance. They reflect habits, decisions, and skills that tend to make backpacking trips safer, lighter, and more enjoyable.
+These tips can help improve your backpacking trip experience. 
 
-**1. Good planning is essential**  
-Choose a destination, then decide what drives the plan. Either plan the route you want and describe the effort so others can decide whether to join, or plan the route around the abilities of the group you want to include. Plan your daily hikes based on elevation and terrain, and aim to reach camp before dark. Know where reliable water sources are, how far apart they are, and how much you need to carry. Identify likely camps ahead of time, but stay flexible and adjust as needed. Build in options so you can shorten days, change camps, or exit if conditions change due to weather, fire, or fatigue. Always check permit requirements, camping and fire restrictions, and food storage rules.
+### 1. Plan your route
+Pick your route based on the group's ability. Calculate daily mileage and elevation gain. Budget roughly 2 mph on flat terrain, 1000 feet of gain per hour. Know where water sources are and how far apart. Check recent trip reports for current water conditions; maps show where sources should be, not what's actually flowing. Identify multiple camp options in case sites are full or you're running late. Get permits early. Check camping and fire restrictions and food storage requirements.
 
-**2. Prepare early**  
-Start training your body early and often. Train with a loaded pack to get used to the fit and feel of the pack. Well ahead of a trip, you should inspect and test all of your gear so you have time to repair or replace anything that fails. Practice setting up your shelter often until you can do it quickly and correctly. Using a checklist will help you stay organized and avoid forgetting to bring anything.
+### Train and test gear
+Start hiking weeks before your trip. Train with a loaded pack. Test all gear at home before you leave; fix or replace anything worn or broken. Practice setting up your shelter until you can do it alone in the dark. Break in new footwear on day hikes. Do a shakedown hike with your full kit to catch problems early. Make a gear list and get it reviewed.
 
-**3. Pack light**  
-A few extra ounces in clothing, cookware, or backup gear can quickly turn into pounds. Weigh your gear and record the weights to identify your heaviest items. Remove what you don’t need before spending money to upgrade what you do. Bring only what you need to stay safe and maintain a reasonable level of comfort. If you need help, ask an experienced backpacker to review your gear list and suggest where you can cut weight.
+### 3. Pack light 
+Bringing heavy and too much gear is what slows people down the most. You need gear to hike, eat, sleep, and stay warm and dry. Everything else is extra. Weigh every item and track your base weight (everything except food, water, and fuel).  Remove gear you don't need before buying lighter replacements. Your heaviest items are your Big 3: shelter, sleep system, and pack. Focus weight cuts there first. Target 15-20 lbs base weight for summer Sierra tripps. Common weight traps: too many clothes, full toiletries, backup gear, and fear-based survival items. Keep navigation, first aid, and emergency gear.
 
-**4. Be a smart hiker**  
-Know where you are and where you are headed, and be able to navigate on your own if separated. Watch for changing weather, such as building clouds or increasing wind, and avoid exposed terrain when storms are possible. Rain alone is manageable, but lightning on exposed terrain is not. Address hot spots, chafing, or pack discomfort as soon as you notice them to prevent bigger problems later. If you are hiking in a group, stay aware of others. Notice how those around you are doing and adjust when needed. Speak up if you or someone else is struggling. Stay together unless everyone agrees to separate and can navigate independently.
+### 4. Be a smart hiker 
+You should always know where you are and where you are headed, and be able to navigate on your own. Watch for changing weather, such as building clouds or increasing wind, and avoid exposed terrain when storms are possible. Rain alone is manageable, but lightning on exposed terrain is not. Address hot spots, chafing, or pack discomfort as soon as you notice them to prevent bigger problems later. If you are hiking in a group, stay aware of others. Notice how those around you are doing and adjust when needed. Speak up if you or someone else is struggling. Stay together unless everyone agrees to separate and can navigate independently.
 
 **5. Camp well, sleep well**  
 Choose your campsite with care. Avoid dead trees, low drainages, and exposed ridges where wind and water can create issues. Look for firm ground with natural wind protection and good drainage. When you arrive, set up and secure your shelter first. Clear sharp debris and ventilate the shelter to reduce condensation overnight. Filter water for dinner and the next morning as soon as you reach camp. Change into dry clothes if you got wet. Cook away from your shelter and store all food and scented items securely. Before leaving, check the site for trash and forgotten gear.
