@@ -5,16 +5,16 @@ title: Backpacking Trips
 
 ## Personal Stats
 
-- **Trips Logged:** 19
-- **Total Nights:** 53
-- **Total Distance:** ~379 mi / 610 km
+- **Trips Logged:** 20
+- **Total Nights:** 59
+- **Total Distance:** ~408 mi / 653 km
 
 ## Past Trips
 
 ### 2025 - Ansel Adams Wilderness, Inyo NF
 - **When:** August 21-24 (3 nights)
 - **Where:** Garnet Lake, Ediza Lake, Minaret Lake
-- **Who:** Joe, Travis, Dylon, Emmanuel, Jesse 
+- **Who:** Joe, Travis, Dylon, Emmanuel, Jesse
 - **Distance:** 29.5 mi / 47.5 km; 5,096' total elevation gain
 - **Map:** [CalTopo Map](https://caltopo.com/m/27S5E48)
 - **Photos:** [View Album](https://www.icloud.com/sharedalbum/#B2dG4VTwGGyZdqv)
@@ -23,7 +23,7 @@ title: Backpacking Trips
 
 - **When:** August 8-11 (3 nights)
 - **Where:** Lillian Lake, Rainbow Lake, Lady Lake
-- **Who:** Joe, Robert, Eric, Travis, Dylon, Emmanuel, Carlos, Serge, Lisa 
+- **Who:** Joe, Robert, Eric, Travis, Dylon, Emmanuel, Carlos, Serge, Lisa
 - **Distance:** 20.42 mi / 32.86 km; 3,885' elevation gain
 - **Map:** [CalTopo Map](https://caltopo.com/m/27S5E48)
 - **Photos:** [View Album](https://www.icloud.com/sharedalbum/#B2dG4VTwGGyZdqv)
@@ -134,7 +134,7 @@ title: Backpacking Trips
 
 - **When:** August 11-14, 2011 (3 nights)
 - **Where:** Bear Lake, Camp Lake
-- **Who:** Joe, Garrett, Brady, Nathan, Earl, Patrick, Eric 
+- **Who:** Joe, Garrett, Brady, Nathan, Earl, Patrick, Eric
 - **Distance:** ~12 mi / 19 km
 - **Photos:** [View Album](https://www.icloud.com/sharedalbum/#B2dGQOeMmGAEYP2)
 
@@ -148,10 +148,10 @@ title: Backpacking Trips
 
 ### 2009 - Glen Aulin, Yosemite NP
 
-- **When:** August 7-10, 2009 (3 mights)
+- **When:** August 7-10, 2009 (3 nights)
 - **Where:** Glen Aulin, Polly Dome Lake, May Lake
 - **Who:** Joe, Garrett, Vance, Nate, Earl, Patrick, Mike
-- **Distance:** ~21 mi / 33 km- 
+- **Distance:** ~21 mi / 33 km
 - **Photos:** [View Album](https://www.icloud.com/sharedalbum/#B2d5aVbMKMX981)
 
 ### 2008 - Partial Yosemite High Sierra Loop, Yosemite NP
