@@ -35,11 +35,13 @@ Repeat it once per day of your trip.
 8. **Check variety.** Are you eating the same three things every day? You may get tired of it. 
 9. **Repeat for each day**, and **trim the first and last days.** You may not need breakfast on the first day and dinner on the last day if those are road meals.
 
-## 2. Calories
+## 2. What to track when buying food
 
-A hiking day can run 3,000 to 5,000+ calories of expenditure, but appetite, pack space, and weight factor in. So most backpackers run a **small calorie deficit** on trip, and that's normal and fine for a few days. You are not trying to break even every day. You're trying to keep energy up and not feel wrecked.
+When you're comparing foods in the store, a few things decide it: calories for the weight, and protein, carbs, and fat. Fiber matters a little. Here's how to think about each.
 
-Practical starting points:
+### Calories
+
+A hiking day can run 3,000 to 5,000+ calories of expenditure, but appetite, pack space, and weight factor in. So most backpackers run a **small calorie deficit** on trip, and that's normal and fine for a few days.
 
 | Trip type | Starting calories per day |
 |---|---|
@@ -47,9 +49,9 @@ Practical starting points:
 | Typical multi-day (8 to 14 miles, real climbing, 25 to 40 lb pack) | 2,800 to 3,500 |
 | Hard (big miles, big climbs, heavy pack, cold or altitude) | 3,500 to 4,500+ |
 
-## 3. Food weight and calorie density
+### Calorie density and weight
 
-Calorie density is just **calories divided by weight**: calories per ounce, or calories per gram. Higher is better when you're trying to carry less. As a reference point, the Youtuber GearSkeptic uses this math: if you need 4,000 calories and your food averages 100 cal/oz, that's 40 oz of food a day; bump the average to 125 cal/oz and the same calories weigh 30 oz. Over a five-day resupply that's about 3 pounds saved. Food is usually your single heaviest pack component, so this is where weight savings are easiest.
+Calorie density is just **calories divided by weight**: calories per ounce, or calories per gram. Higher is better when you're trying to carry less. The Youtuber GearSkeptic uses this math: if you need 4,000 calories and your food averages 100 cal/oz, that's 40 oz of food a day; bump the average to 125 cal/oz and the same calories weigh 30 oz. Over a five-day resupply that's about 3 pounds saved. Food is usually your single heaviest pack component, so this is where weight savings are easiest.
 
 Useful targets:
 
@@ -61,7 +63,7 @@ GearSkeptic has a big list of foods color-coded by density that's handy for brow
 
 High-density items worth knowing: olive oil (about 250 cal/oz, the densest food there is), nuts and nut butters (~160 to 180), chips and fried snacks (~150), granola (~130), many candy bars and energy bars (~120 to 130), powdered whole milk (~140).
 
-## 4. Protein
+### Protein
 
 Protein supports repair so you feel less trashed as the trip goes on. Target for healthy adult backpackers: roughly **0.6 to 0.7 grams of protein per pound of body weight per day**, which is about **1.4 to 1.6 grams per kilogram**. That is in the range major sports-nutrition guidance supports for active people. Endurance activity is a little lower than strength training, but multi-day backpacking pushes you toward the upper part of that band.
 
@@ -79,11 +81,9 @@ Protein supports repair so you feel less trashed as the trip goes on. Target for
 
 Good protein sources: jerky and meat sticks, tuna and chicken packets, powdered milk, cheese, nuts and nut butter, protein bars, dehydrated refried beans, and any dinner built around meat or beans.
 
-## 5. Carbohydrates
+### Carbohydrates
 
 At an easy walking pace, most of your energy comes from fat, and you can get away with a higher-fat, lower-carb menu. But the harder you work, climbing, fast miles, a heavy load, the more your body leans on **carbohydrate** (muscle glycogen). Push hard enough on too little carb and you "bonk": legs turn to lead, mood tanks, and you have to slow down. 
-
-Guidance:
 
 - Make carbs a real part of your trail snacking, not an afterthought. Dried fruit, candy, chips, bars, crackers, fig bars.
 - Eat **small amounts often** while moving rather than one big stop. 
@@ -92,19 +92,19 @@ Guidance:
 
 You do not need to weigh carbohydrate every hour. If you ever want the precise version: sports guidance suggests roughly 30 to 60 grams of carbs per hour during sustained hard endurance effort (more only for very long, very hard days). That's an optional level of detail. For most backpacking, "snack regularly and lean carb-heavy when it's hard" covers it.
 
-## 6. Fat
+### Fat
 
 Fat carries the most calories for its weight: about 9 calories per gram, more than twice what carbs or protein give per ounce. Olive oil, nuts, nut butter, and cheese are dense and light.
 
 Use fat to add calories without extra weight, but keep enough carbohydrate for the hard parts of the day and enough protein for repair. And favor a **mix of fat sources**, nuts, olive oil, dairy, rather than building the whole menu out of one saturated-fat block. 
 
-## 7. Fiber and digestion
+### Fiber
 
-Aim for about what you normally eat, which for most adults is **25 to 38 grams a day** (roughly 14 grams per 1,000 calories). The trail is a bad place to suddenly load up on unfamiliar high-fiber food; keep it close to your usual and your gut won't surprise you.
+Aim for about what you normally eat, which for most adults is **25 to 38 grams a day** (roughly 14 grams per 1,000 calories). The trail is a bad place to suddenly load up on unfamiliar high-fiber food.
 
-## 8. Sodium, electrolytes, and hydration
+## 3. Sodium, electrolytes, and hydration
 
-**Why it varies:** you lose sodium and water through sweat, and sweat rate and saltiness differ between people and conditions. Heat, pace, humidity, acclimation, and your body all factor in. 
+**Why it varies:** you lose sodium and water through sweat, and sweat rate and saltiness differ between people and conditions.
 
 **Food does a lot of the work.** Normal trail food is salty: chips, jerky, cheese, crackers, ramen, dehydrated dinners. Eating normally can cover most people's sodium needs without any special product.
 
@@ -114,23 +114,21 @@ Aim for about what you normally eat, which for most adults is **25 to 38 grams a
 
 **Warning signs to take seriously:** a headache that won't quit, nausea, confusion, dizziness, swelling of hands or face, or feeling worse the more water you drink. Those can signal a real electrolyte or fluid problem. Stop, rest, eat something salty, and if symptoms are significant or someone seems confused, treat it as a medical situation and get help. This is also why people with heart, kidney, or blood-pressure conditions, or on medications that affect fluids or salt, need individual advice rather than a general rule of thumb.
 
-## 9. What to eat and when
+## 4. What to eat and when
 
-**Breakfast.** Get moving with something easy and palatable. Carb-forward with a little fat and protein. Cereal or granola with powdered milk, instant oats with nut butter or oil stirred in, or just bars if you're a get-up-and-go person. No-cook breakfasts save time and stove fuel.
+**Breakfast.** Something easy to eat, mostly carbs with a little fat and protein. Cereal or granola with powdered milk, instant oats with nut butter or oil stirred in, or just bars if you'd rather get moving. No-cook breakfasts save time and stove fuel.
 
 **During hiking.** This is most of your calories. Graze on a mix of carbs and a little protein, in small amounts, often. Carbs keep your legs working; a bit of protein and fat keeps you satisfied. Keep the day's snacks somewhere you can reach without unpacking.
 
 **Optional lunch.** Some people stop for a midday meal; others just graze through. Either works. If you stop, keep it carb-and-protein and not too fatty so you're not sluggish afterward.
 
-**Recovery.** When you reach camp after a hard day, a snack with carbs plus some protein helps you bounce back, especially if tomorrow is another big day. Another option is a sports recovery drink.
+**Recovery.** After a hard day, a snack with carbs plus some protein helps you bounce back, especially if tomorrow is another big day. Carbs refill glycogen, protein supports repair, and the two together work a bit better than carbs alone. Low-fat, easy-to-digest food goes down easier right after hiking, like chocolate milk, a recovery mix, or a simple snack.
 
 **Dinner.** Most of your protein, and a good place for carbs to replenish glycogen for tomorrow. A hot meal is morale as much as nutrition.
 
 **Before bed, if useful.** On cold nights or after a hard day, a small snack (a bit of fat and protein, like cheese or nuts) can help you sleep warm and stave off middle-of-the-night hunger. Optional.
 
-The rule of thumb is to lean your snacks carb-heavy for working muscles, make dinner protein-rich for repair. 
-
-The other useful idea: **meals balance each other.** A protein-heavy food and a carb-heavy food eaten together make a good meal even if neither is "balanced" alone. A meat stick plus a waffle. A tuna packet stirred into a pasta side. You don't need every single item to be perfect; you need the day to add up.
+Rule of thumb: lean your snacks carb-heavy for working muscles, and make dinner protein-rich for repair. No single item needs to be balanced; the day does.
 
 Simple combinations that work:
 
@@ -141,13 +139,7 @@ Simple combinations that work:
 - A handful of trail mix any time you can't be bothered to think about it
 - Recovery: chocolate milk made from powdered milk and cocoa, or just a bar plus a salty snack
 
-## 10. Recovery
-
-"Recovery" means refilling the muscle glycogen you burned and giving your muscles protein to repair, so you can do it again tomorrow.
-
-What helps: **carbohydrate plus some protein** after a hard effort. Carbs refill glycogen, protein supports repair, and the two together refill glycogen a bit better than carbs alone. Low-fat, easy-to-digest food goes down easier right after hiking, like a drink (chocolate milk, a recovery mix) or a simple snack.
-
-## 11. Building a multi-day menu
+## 5. Building a multi-day menu
 
 - **Plan each day, don't just multiply one day by five.** Days differ. A big climb day needs more food than a flat cruise day. Multiplying one "average" day either over- or under-packs most of the trip.
 - **Trim partial days.** First and last days may be half days depending on your plan. Pack accordingly.
@@ -157,7 +149,7 @@ What helps: **carbohydrate plus some protein** after a hard effort. Carbs refill
 - **Test unfamiliar foods at home.** New bars, new drink mixes, a high-fat or high-fiber experiment: try them on a training hike, not on day one of a week-long trip. This is how you avoid GI surprises.
 - **Mind the bear canister.** If you're required to carry one, your food has to physically fit. That makes bulky, low-density food (chips, puffed snacks) a space problem as well as a weight one. You don't need to calculate volume; just pack the canister before you leave and make sure it closes.
 
-## 12. A worked example
+## 6. A worked example
 
 A realistic day for a roughly 160 to 180 lb adult on a normal hard-ish day. All numbers are approximate and rounded; real labels vary, so check yours.
 
@@ -179,9 +171,9 @@ That's about **118 calories per ounce**, about 1.6 pounds, and protein in range 
 
 **Why it works:** carbs are spread through the hiking hours (trail mix, bars, tortilla, chips), protein is spread across the day rather than crammed into dinner, the olive oil and nut butter push density up cheaply, and there's a salty item and a treat so you'll actually finish it.
 
-**Adjust up** (toward 3,500+) for a big-mile or high-altitude day: add another bar or two, more nut butter, a bigger dinner. **Adjust down** (toward 2,400) for an easy day or a partial travel day: drop the recovery bar and a snack, shrink dinner. None of this is precise, and it doesn't need to be.
+**Adjust up** (toward 3,500+) for a big-mile or high-altitude day: add another bar or two, more nut butter, a bigger dinner. **Adjust down** (toward 2,400) for an easy day or a partial travel day: drop the recovery bar and a snack, shrink dinner.
 
-## 13. Common mistakes
+## 7. Common mistakes
 
 - **Packing on calories per ounce alone.** You end up with a dense food bag full of things you don't want to eat. 
 - **Bringing food you don't actually like.** It stays in the bag, you under-eat, you feel terrible. 
@@ -194,33 +186,7 @@ That's about **118 calories per ounce**, about 1.6 pounds, and protein in range 
 - **Assuming a "serving" equals what you eat.** People eat two or three label servings of many trail foods. Plan on what you'll really eat, not the serving on the box.
 - **Overpacking from fear.** "What if I'm starving" leads to hauling pounds of food home. 
 
-## 14. The grocery-store label shortcut
-
-Comparing two foods without a spreadsheet, in about ten seconds:
-
-1. **Calories vs. package weight.** Find calories per container, glance at the net weight, and estimate calories per ounce. Over ~100 is good, ~125+ is great for staples.
-2. **Protein per amount you'll really eat.** Not per serving, per the amount you'll actually eat. A bar with 10+ grams counts as protein; one with 2 is a carb snack (fine, just know which it is).
-3. **Are there carbs for hiking?** For trail snacks, you want available carbohydrate. Pure-fat foods are for density, not for fueling a climb.
-4. **Is it extreme on anything?** Very fatty, very sugary, very salty, or very high-fiber items are fine in moderation but bad as the whole plan, and high-fiber or sugar-alcohol foods can cause GI trouble if you pile them on.
-5. **Servings per package and realistic portion.** A "4 serving" pasta side might be one trail dinner. Read the package as "how much is in here" and decide what your real portion is.
-
-## 15. Final checklist
-
-Before you buy and pack:
-
-- [ ] A calorie target per day, adjusted for how hard each day is
-- [ ] First and last days trimmed to partial days
-- [ ] Most staples over 100 cal/oz; total around 1.5 to 2 lb per day
-- [ ] Protein adds up to your daily target, spread across the day
-- [ ] Real carbs for the hiking hours, more on hard days
-- [ ] Something salty each day; an electrolyte option for heat
-- [ ] Foods you actually like, with enough variety to last the trip
-- [ ] Nothing brand-new to your gut that you haven't tested at home
-- [ ] A small separate stash of extra/emergency food
-- [ ] Everything fits the bear canister if you're carrying one
-- [ ] Each day's food packed so it's easy to reach
-
-## 16. Further watching
+## 8. Further watching
 
 GearSkeptic's "Eat by Numbers" series is the most thorough free resource on this, and it's where a lot of the structure here comes from. If you only watch a couple, watch the first two performance videos.
 
