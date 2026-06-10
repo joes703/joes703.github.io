@@ -22,7 +22,7 @@ It's written for healthy adults doing normal recreational backpacking. If you ha
 Start with these daily targets, then adjust by appetite and how hard you're hiking.
 
 - Calories: about 2,500 to 3,000 a day to start. Higher for more distance, climbing, or altitude; lower for easy, short trips.
-- Macros: 50% carbs / 30% fat / 20% protein of your total daily calories.
+- Macros: 50% carbs / 30% fat / 20% protein of your total daily calories. Harder days generally benefit from more carbs.
 - Protein: bodyweight in pounds × 0.6 to 0.7 = grams per day. For most adults that's about 90 to 130 grams.
 - Food weight: calories ÷ calories-per-ounce = ounces you carry. Aim for at least 100 cal/oz, ideally around 125, which puts a day's food near 1.5 to 2 pounds.
 
@@ -38,13 +38,13 @@ Rough targets:
 
 - Under about 80 cal/oz: heavy for what you get. Fresh fruit, most canned food, anything packed in water.
 - Around 100 cal/oz: a reasonable weight.
-- 125 cal/oz and up: what you want for most of your food. Olive oil (~250, the densest food there is), nuts and nut butters (~160 to 180), chips and fried snacks (~150), powdered whole milk (~140), granola (~130), many candy and energy bars (~120 to 130).
+- 125 cal/oz and up: what you want for most of your food. Olive oil (~250 cal/oz, among the most calorie-dense foods you can reasonably carry), nuts and nut butters (~160 to 180), chips and fried snacks (~150), powdered whole milk (~140), granola (~130), many candy and energy bars (~120 to 130).
 
 GearSkeptic has a big list of foods color-coded by density that's handy for browsing. Don't build the whole food bag from the densest items, though; you still have to want to eat what you carry. If a food is heavy for its calories and not bringing much else, swap it.
 
 ### Protein
 
-Protein supports repair, so you feel less trashed as the trip goes on. For healthy adult backpackers, aim for roughly 0.6 to 0.7 grams per pound of body weight per day (about 1.4 to 1.6 g/kg). Multi-day backpacking pushes you toward the upper end.
+Protein supports repair, so you feel less trashed as the trip goes on. For healthy adult backpackers, aim for roughly 0.6 to 0.7 grams per pound of body weight per day (about 1.4 to 1.6 g/kg), toward the upper end on hard trips. This is more than most people normally eat, but multi-day backpacking puts more stress on your body than everyday life.
 
 | Body weight | Daily protein target |
 |---|---|
@@ -88,7 +88,7 @@ Most of your calories come from here. Take in carbs with a little protein, in sm
 
 ### At camp
 
-When you stop, take in carbs plus some protein. Carbs refill glycogen and protein supports repair; keep it low in fat, which sits better right after hiking.
+After a long day, a snack with carbs and some protein can help with recovery. Carbs refill glycogen and protein supports repair; keep it low in fat, which sits better right after hiking.
 
 ### Dinner
 
