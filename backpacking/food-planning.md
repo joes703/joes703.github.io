@@ -122,31 +122,7 @@ For water, drink to thirst. Drink more when it's hot or you're working hard, les
 
 Take these warning signs seriously: confusion, repeated vomiting, a severe or worsening headache, a seizure, altered behavior, swelling of the hands or face, or feeling worse the more water you drink. Many different problems can cause these, so don't try to diagnose yourself on the trail. Stop drinking on a schedule, and don't keep forcing water. If someone is confused, vomiting repeatedly, behaving strangely, seizing, or otherwise clearly unwell, treat it as a medical emergency and get help. This is also why people with heart, kidney, or blood-pressure conditions, or on medications that affect fluids or salt, need individual advice rather than a general rule of thumb.
 
-## 4. A worked example
-
-A realistic day for a roughly 160 to 180 lb adult on a normal hard-ish day. All numbers are approximate and rounded; real labels vary, so check yours.
-
-| Item | Calories | Protein | Weight |
-|---|---|---|---|
-| Breakfast: granola (3 oz) + powdered whole milk (1 oz) | 530 | 16 g | 4 oz |
-| Trail snacks: trail mix (3 oz) | 450 | 11 g | 3 oz |
-| Nut butter packet (1.1 oz) | 190 | 7 g | 1.1 oz |
-| Fig/fruit bars (2 oz) | 200 | 2 g | 2 oz |
-| Meat stick (1.5 oz) | 140 | 8 g | 1.5 oz |
-| Chips or pretzels, salty (1 oz) | 150 | 2 g | 1 oz |
-| Lunch: large flour tortilla (2.3 oz), eaten with the nut butter above | 210 | 6 g | 2.3 oz |
-| Recovery: protein/energy bar (2.1 oz) | 230 | 12 g | 2.1 oz |
-| Dinner: pasta side (4 oz dry) + 1 Tbsp olive oil + tuna packet (2.6 oz) | 700 | 31 g | 7 oz |
-| Before bed: chocolate or cookies (1 oz) | 150 | 2 g | 1 oz |
-| **Total** | **~2,950** | **~97 g** | **~25 oz (1.6 lb)** |
-
-That's about 118 calories per ounce, about 1.6 pounds, and protein in range for that body weight. Salt comes from the meat stick, chips, tuna, and pasta side, with room to add an electrolyte drink if it's hot.
-
-The day holds together because carbs run through the hiking hours (trail mix, bars, tortilla, chips), protein lands at several meals instead of only dinner, the olive oil and nut butter add cheap density, and a salty item and a treat keep it eatable.
-
-To adjust up (toward 3,500+) for a big-mile or high-altitude day, add another bar or two, more nut butter, and a bigger dinner. To adjust down (toward 2,400) for an easy or partial travel day, drop the recovery bar and a snack, and shrink dinner.
-
-## 5. Further watching
+## 4. Further watching
 
 GearSkeptic's "Eat by Numbers" series is a thorough free resource on this, and a lot of the structure here comes from it. If you only watch a couple, start with the first two performance videos.
 
