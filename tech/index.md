@@ -7,6 +7,4 @@ has_toc: false
 
 # Tech
 
-Notes and writeups on technical topics.
-
-- [How to Get Into AppSec](appsec.md)
+Notes and writeups on technical topics. Pick a page from the sidebar.
