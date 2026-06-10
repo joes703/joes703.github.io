@@ -1,5 +1,7 @@
 ---
-title: "How to Get Into AppSec"
+title: How to Get Into AppSec
+parent: Tech
+nav_order: 1
 layout: default
 ---
 # How to Get Into AppSec

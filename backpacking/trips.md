@@ -1,5 +1,7 @@
 ---
-title: Backpacking Trips
+title: Trips
+parent: Backpacking
+nav_order: 2
 ---
 # Backpacking Trips
 

@@ -1,5 +1,7 @@
 ---
-title: Backpacking Trip Checklist
+title: Checklist
+parent: Backpacking
+nav_order: 3
 ---
 
 ## Backpacking Prep Checklist

@@ -1,5 +1,7 @@
 ---
-title: Backpacking Trip Information
+title: Info
+parent: Backpacking
+nav_order: 6
 ---
 
 # Backpacking Trip Information

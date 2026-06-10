@@ -1,8 +1,17 @@
 ---
-title: Backpacking Food Planning
+title: Food Planning
+parent: Backpacking
+nav_order: 1
 ---
 
 # Backpacking Food Planning
+
+<details open markdown="block">
+  <summary>Table of contents</summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
 
 These are my notes to help plan food on multi-day backpacking trips. 
 

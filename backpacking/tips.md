@@ -1,5 +1,7 @@
 ---
-title: Backpacking Tips
+title: Tips
+parent: Backpacking
+nav_order: 5
 ---
 
 # Backpacking Tips

@@ -1,5 +1,7 @@
 ---
-title: Backpacking Fitness Plan
+title: Fitness
+parent: Backpacking
+nav_order: 4
 ---
 
 # Backpacking Fitness Plan
