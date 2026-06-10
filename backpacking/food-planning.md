@@ -22,7 +22,7 @@ It's written for healthy adults doing normal recreational backpacking. If you ha
 Start with these daily targets, then adjust by appetite and how hard you're hiking.
 
 - Calories: about 2,500 to 3,000 a day to start. Higher for more distance, climbing, or altitude; lower for easy, short trips.
-- Macros, as a share of calories: 50% carbs / 30% fat / 20% protein.
+- Macros: 50% carbs / 30% fat / 20% protein of your total daily calories.
 - Protein: bodyweight in pounds × 0.6 to 0.7 = grams per day. For most adults that's about 90 to 130 grams.
 - Food weight: calories ÷ calories-per-ounce = ounces you carry. Aim for at least 100 cal/oz, ideally around 125, which puts a day's food near 1.5 to 2 pounds.
 
