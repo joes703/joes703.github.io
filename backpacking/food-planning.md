@@ -15,20 +15,20 @@ nav_order: 1
 
 These are my notes to help plan food on multi-day backpacking trips.
 
-It's written for healthy adults doing normal recreational backpacking. If you have a medical condition that touches diet or hydration (diabetes, kidney issues, heart conditions, an eating disorder, food allergies, or you take medication that affects fluids or electrolytes), the general numbers here are not for you. Talk to someone qualified.
+It's written for healthy adults doing normal recreational backpacking. If you have a medical condition that touches diet or hydration, the general numbers here are not for you. Talk to someone qualified.
 
 ## 1. How much you need in a day
 
 Start with these daily targets, then adjust by appetite and how hard you're hiking.
 
-- Calories: about 2,500 to 3,000 a day to start. Higher for more distance, climbing, or altitude; lower for easy, short trips.
-- Macros: 50% carbs / 30% fat / 20% protein of your total daily calories. Harder days generally benefit from more carbs.
+- Calories: **2,500 to 3,000 a day** to start. More calories for hard days.
+- Macros: **50% carbs / 30% fat / 20% protein** of your total daily calories. More carbs for hard days.
 - Protein: bodyweight in pounds × 0.6 to 0.7 = grams per day. For most adults that's about 90 to 130 grams.
 - Food weight: calories ÷ calories-per-ounce = ounces you carry. Aim for at least 100 cal/oz, ideally around 125, which puts a day's food near 1.5 to 2 pounds.
 
 ### Calories
 
-A hard hiking day can burn more than you can comfortably carry and eat, so most backpackers run a small calorie deficit on trip, and that's normal and fine for a few days. You can't really measure your burn in the field, so don't try to dial it in: start from the number above, eat more on longer or steeper days and less on easy ones, and let your appetite handle the rest.
+A hard day can burn more than you can comfortably carry and eat, so most backpackers run a small calorie deficit on trip, and that's normal and fine for a few days. If you think you will have some harder days, bring more carbs.
 
 ### Calorie density and weight
 
@@ -44,7 +44,7 @@ GearSkeptic has a big list of foods color-coded by density that's handy for brow
 
 ### Protein
 
-Protein supports repair, so you feel less trashed as the trip goes on. For healthy adult backpackers, aim for roughly 0.6 to 0.7 grams per pound of body weight per day (about 1.4 to 1.6 g/kg), toward the upper end on hard trips. This is more than most people normally eat, but multi-day backpacking puts more stress on your body than everyday life.
+Protein supports muscle repair. Aim for roughly 0.6 to 0.7 grams per pound of body weight per day (about 1.4 to 1.6 g/kg), toward the upper end on hard trips. This is more proten than most people normally eat, but multi day backpacking puts more stress on your muscles than everyday life.
 
 | Body weight | Daily protein target |
 |---|---|
@@ -58,13 +58,13 @@ Protein supports repair, so you feel less trashed as the trip goes on. For healt
 - Adjust to your route: the low end on easy days, the high end on hard days.
 - Spread it across the day. Your body uses protein better in moderate amounts at several meals than in one big dinner: a little at breakfast, some in your trail snacks, the most at dinner.
 
-Good protein sources: jerky and meat sticks, tuna and chicken packets, powdered milk, cheese, nuts and nut butter, protein bars, dehydrated refried beans, and meat or beans at dinner.
+Good protein sources: jerky and meat sticks, tuna and chicken packets, powdered milk, cheese, nuts and nut butter, protein bars or mixes, dehydrated refried beans, and meat or beans at dinner.
 
 ### Carbohydrates
 
-At an easy walking pace, most of your energy comes from fat, and you can get away with a higher-fat, lower-carb menu. But the harder you work (climbing, fast miles, a heavy load), the more your body leans on carbohydrate (muscle glycogen). Push hard enough on too little carb and you "bonk": legs turn to lead, mood tanks, and you slow to a crawl. So on hard days, make your snacks carb-heavy.
+At an easy walking pace, most of your energy comes from fat, and you can get away with a higher-fat, lower-carb menu. But the harder you work, the more your body leans on carbohydrate (muscle glycogen). Push hard enough on too little carb and you "bonk". So on hard days, make your snacks carb-heavy.
 
-You don't need to weigh carbohydrate every hour. For the precise version, hard endurance effort burns through roughly 30 to 60 grams an hour; for most backpacking, snack regularly and favor carbs on hard days.
+You don't need to weigh carbohydrate every hour. For backpacking, snack regularly and favor carbs on hard days.
 
 ### Fat
 
@@ -115,7 +115,7 @@ GearSkeptic's "Eat by Numbers" series is a thorough free resource on this, and a
 - [Hiker Food Chart 2.0](https://www.youtube.com/watch?v=ynCBp7CZaNQ): how the food chart works if you want to browse foods by density.
 - [Planning an Ultralight Backpacking Menu](https://www.youtube.com/watch?v=1Nyq0DWvf1s): watching him build a full menu end to end.
 
-## Sources and limitations
+## Sources
 
 The numbers here are starting points for healthy adults on ordinary trips. Where I gave specific figures:
 
@@ -123,4 +123,3 @@ The numbers here are starting points for healthy adults on ordinary trips. Where
 - Carbohydrate around 30 to 60 g/hour during sustained hard exercise, and fiber at roughly 14 g per 1,000 calories: general sports-nutrition and dietary guidance, not a single source.
 - "Drink to thirst" and the risk of overdrinking: [exercise-associated hyponatremia consensus statement](https://bjsm.bmj.com/content/49/22/1432).
 
-Everyone's needs differ, and these recommendations don't cover medical conditions, medications, allergies, or competitive athletics. If any of those apply to you, get individualized advice from a qualified professional.
