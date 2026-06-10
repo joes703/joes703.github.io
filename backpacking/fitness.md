@@ -6,17 +6,15 @@ nav_order: 4
 
 # Backpacking Fitness
 
-## Walk or Hike
+## Stay Active
 
-- Aim for 30-45 minutes of walking or hiking, 3-5 days per week.
-- Gradually increase duration and difficulty.
+- Aim for 30-45 minutes of walking, hiking, or other exercise 3-5 days per week.
 - Add hills or stairs when possible.
+- Gradually increase duration and difficulty as your fitness improves.
 
-## Train With Your Pack
+## Hike With Your Pack
 
-- Before your trip, complete several hikes carrying the weight you expect to bring.
-- Most backpackers should aim to train with approximately 20-30 pounds.
-- Start lighter if needed and gradually work up to your expected trail weight.
+- Before your trip, complete a few hikes that are similar to the distance, elevation gain, and pack weight you expect on the trail.
 
 ## Build Strength (Optional)
 
@@ -31,8 +29,3 @@ Exercises to consider:
 - Planks
 
 Perform 2-3 sets of each exercise, 1-2 times per week.
-
-## If You Only Do Two Things
-
-1. Walk regularly.
-2. Hike with your backpack before your trip.
