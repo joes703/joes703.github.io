@@ -146,16 +146,7 @@ That's about **118 calories per ounce**, about 1.6 pounds, and protein in range 
 
 **Adjust up** (toward 3,500+) for a big-mile or high-altitude day: add another bar or two, more nut butter, a bigger dinner. **Adjust down** (toward 2,400) for an easy day or a partial travel day: drop the recovery bar and a snack, shrink dinner.
 
-## 5. Common mistakes
-
-- **Packing on calories per ounce alone.** You end up with a dense food bag full of things you don't actually want to eat, so you under-eat and feel terrible.
-- **Too little carbohydrate for hard hiking.** Carry real carbs for the climbs and big miles.
-- **Too little protein across several days.** Hitting a nice meal ratio but eating so little overall that you fall short.
-- **Forgetting salt while drinking lots of water.** Especially in heat. Plain water plus heavy sweating plus no salt is how you get into trouble.
-- **Assuming a "serving" equals what you eat.** People eat two or three label servings of many trail foods. Plan on what you'll really eat, not the serving on the box.
-- **Overpacking from fear.** "What if I'm starving" leads to hauling pounds of food home.
-
-## 6. Further watching
+## 5. Further watching
 
 GearSkeptic's "Eat by Numbers" series is the most thorough free resource on this, and it's where a lot of the structure here comes from. If you only watch a couple, watch the first two performance videos.
 
