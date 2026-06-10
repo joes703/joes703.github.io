@@ -34,7 +34,7 @@ If you read nothing else:
 
 Repeat this once per day of your trip. Days differ, so plan each day rather than multiplying one average day by five — a big climb day needs more food than a flat cruise.
 
-1. **Pick a calorie target.** Start around 3,000 and bump it up for harder days (see the calorie table below).
+1. **Pick a calorie target.** Start around 3,000 and eat more on harder days.
 2. **Breakfast.** Something easy to eat at 6 a.m., mostly carbs with a little fat and protein: cereal or granola with powdered milk, instant oats with nut butter or oil stirred in, or just bars if you'd rather get moving. No-cook saves time and stove fuel.
 3. **Hiking food.** This is the bulk of the day. Graze on a mix of carbs and a little protein, in small amounts, often: trail mix, bars, dried fruit, chips, meat sticks, nut butter, tortillas. Carbs keep your legs working; eat more of them on hard, long, or steep days. Keep snacks where you can reach them without unpacking.
 4. **Recovery food**, if the day was hard or you're hiking hard again tomorrow. A carb-plus-protein snack when you reach camp — chocolate milk, a recovery mix, or a bar plus a salty snack. Carbs refill glycogen, protein supports repair, and low-fat food goes down easier right after hiking.
@@ -61,19 +61,13 @@ Across the whole trip:
 - **Test unfamiliar foods at home.** Try new bars, drink mixes, or high-fat and high-fiber experiments on a training hike, not on day one of a week-long trip.
 - **Mind the bear canister.** If you're required to carry one, bulky low-density food (chips, puffed snacks) is a space problem as well as a weight one. Pack the canister before you leave and make sure it closes.
 
-## 2. What to track when buying food
+## 2. What to track in your food
 
-When you're comparing foods in the store, a few things decide it: calories for the weight, and protein, carbs, and fat. Fiber matters a little. Here's how to think about each.
+When you're choosing what to pack, a few things decide it: calories for the weight, and protein, carbs, and fat. Fiber matters a little. Here's how to think about each.
 
 ### Calories
 
-A hiking day can run 3,000 to 5,000+ calories of expenditure, but appetite, pack space, and weight factor in. So most backpackers run a **small calorie deficit** on trip, and that's normal and fine for a few days.
-
-| Trip type | Starting calories per day |
-|---|---|
-| Easy or short (low miles, light pack, mild weather) | 2,200 to 2,800 |
-| Typical multi-day (8 to 14 miles, real climbing, 25 to 40 lb pack) | 2,800 to 3,500 |
-| Hard (big miles, big climbs, heavy pack, cold or altitude) | 3,500 to 4,500+ |
+A hard hiking day can burn more than you can comfortably carry and eat, so most backpackers run a **small calorie deficit** on trip — that's normal and fine for a few days. You can't really measure your burn in the field, so don't try to dial it in. Start around **2,500 to 3,000 calories a day**, eat more on longer or steeper days and less on easy ones, and let your appetite handle the rest.
 
 ### Calorie density and weight
 
