@@ -32,12 +32,12 @@ If you read nothing else:
 
 ## 1. The day plan
 
-Repeat this once per day of your trip. Days differ, so plan each day rather than multiplying one average day by five — a big climb day needs more food than a flat cruise.
+Repeat this once per day of your trip. Days differ, so plan each day rather than multiplying one average day by five. A big climb day needs more food than a flat cruise.
 
 1. **Pick a calorie target.** Start around 3,000 and eat more on harder days.
 2. **Breakfast.** Something easy to eat at 6 a.m., mostly carbs with a little fat and protein: cereal or granola with powdered milk, instant oats with nut butter or oil stirred in, or just bars if you'd rather get moving. No-cook saves time and stove fuel.
 3. **Hiking food.** This is the bulk of the day. Graze on a mix of carbs and a little protein, in small amounts, often: trail mix, bars, dried fruit, chips, meat sticks, nut butter, tortillas. Carbs keep your legs working; eat more of them on hard, long, or steep days. Keep snacks where you can reach them without unpacking.
-4. **Recovery food**, if the day was hard or you're hiking hard again tomorrow. A carb-plus-protein snack when you reach camp — chocolate milk, a recovery mix, or a bar plus a salty snack. Carbs refill glycogen, protein supports repair, and low-fat food goes down easier right after hiking.
+4. **Recovery food**, if the day was hard or you're hiking hard again tomorrow. A carb-plus-protein snack when you reach camp: chocolate milk, a recovery mix, or a bar plus a salty snack. Carbs refill glycogen, protein supports repair, and low-fat food goes down easier right after hiking.
 5. **Dinner.** Most of your protein, and a good place for carbs to replenish glycogen for tomorrow: a pasta or rice side plus a protein, a freeze-dried meal, or ramen plus a tuna or chicken packet. A hot meal is morale as much as nutrition.
 6. **Check protein.** Add up the grams. If you're well under your target, add a protein packet, more meat, more dairy, or a protein bar.
 7. **Check weight and density.** A typical day's food runs **1.5 to 2 pounds** at over 100 calories per ounce. Hard, high-calorie days run heavier, and that's fine. If a food is heavy for its calories and not bringing much else, swap it.
@@ -56,7 +56,7 @@ Simple combinations that work:
 
 Across the whole trip:
 
-- **Vary it, especially dinners and treats.** Repeating a known breakfast is efficient, but by day three or four sameness kills appetite — and not eating is a bigger problem than a slightly heavier food bag.
+- **Vary it, especially dinners and treats.** Repeating a known breakfast is efficient, but by day three or four sameness kills appetite, and not eating is a bigger problem than a slightly heavier food bag.
 - **Expect appetite to change.** Some people lose appetite as a trip wears on or at altitude; others get hungrier. Bring some easy, appealing food for the days when nothing sounds good.
 - **Test unfamiliar foods at home.** Try new bars, drink mixes, or high-fat and high-fiber experiments on a training hike, not on day one of a week-long trip.
 - **Mind the bear canister.** If you're required to carry one, bulky low-density food (chips, puffed snacks) is a space problem as well as a weight one. Pack the canister before you leave and make sure it closes.
@@ -67,11 +67,11 @@ When you're choosing what to pack, a few things decide it: calories for the weig
 
 ### Calories
 
-A hard hiking day can burn more than you can comfortably carry and eat, so most backpackers run a **small calorie deficit** on trip — that's normal and fine for a few days. You can't really measure your burn in the field, so don't try to dial it in. Start around **2,500 to 3,000 calories a day**, eat more on longer or steeper days and less on easy ones, and let your appetite handle the rest.
+A hard hiking day can burn more than you can comfortably carry and eat, so most backpackers run a **small calorie deficit** on trip, and that's normal and fine for a few days. You can't really measure your burn in the field, so don't try to dial it in. Start around **2,500 to 3,000 calories a day**, eat more on longer or steeper days and less on easy ones, and let your appetite handle the rest.
 
 ### Calorie density and weight
 
-Calorie density is just **calories divided by weight** — calories per ounce. Higher is better when you're trying to carry less. The math: if you need 4,000 calories at 100 cal/oz, that's 40 oz of food a day; at 125 cal/oz the same calories weigh 30 oz — about 3 pounds saved over a five-day resupply. Food is usually your single heaviest pack component, so this is where weight savings are easiest.
+Calorie density is just **calories divided by weight** (calories per ounce). Higher is better when you're trying to carry less. The math: if you need 4,000 calories at 100 cal/oz, that's 40 oz of food a day; at 125 cal/oz the same calories weigh 30 oz, about 3 pounds saved over a five-day resupply. Food is usually your single heaviest pack component, so this is where weight savings are easiest.
 
 Useful targets:
 
@@ -101,7 +101,7 @@ Good protein sources: jerky and meat sticks, tuna and chicken packets, powdered 
 
 ### Carbohydrates
 
-At an easy walking pace, most of your energy comes from fat, and you can get away with a higher-fat, lower-carb menu. But the harder you work — climbing, fast miles, a heavy load — the more your body leans on **carbohydrate** (muscle glycogen). Push hard enough on too little carb and you "bonk": legs turn to lead, mood tanks, and you have to slow down. So make carbs a real part of your trail snacking on hard days, not an afterthought.
+At an easy walking pace, most of your energy comes from fat, and you can get away with a higher-fat, lower-carb menu. But the harder you work (climbing, fast miles, a heavy load), the more your body leans on **carbohydrate** (muscle glycogen). Push hard enough on too little carb and you "bonk": legs turn to lead, mood tanks, and you have to slow down. So make carbs a real part of your trail snacking on hard days, not an afterthought.
 
 You don't need to weigh carbohydrate every hour. If you want the precise version: sports guidance suggests roughly 30 to 60 grams per hour during sustained hard endurance effort. For most backpacking, "snack regularly and lean carb-heavy when it's hard" covers it.
 
@@ -119,7 +119,7 @@ Aim for about what you normally eat, which for most adults is **25 to 38 grams a
 
 **Food does a lot of the work.** Normal trail food is salty: chips, jerky, cheese, crackers, ramen, dehydrated dinners. Eating normally can cover most people's sodium needs without any special product.
 
-**When electrolyte products help:** hot weather, long days, and heavy sustained sweating — especially if you're a salty sweater (gritty skin, stinging eyes, white marks on your clothes). On those days a drink mix or salt tabs are a reasonable addition to salty food. On cool, short, or easy days you usually don't need them.
+**When electrolyte products help:** hot weather, long days, and heavy sustained sweating, especially if you're a salty sweater (gritty skin, stinging eyes, white marks on your clothes). On those days a drink mix or salt tabs are a reasonable addition to salty food. On cool, short, or easy days you usually don't need them.
 
 **Hydration: drink to thirst.** Your thirst is a good guide. Drink more when it's hot or you're working hard, less when it's cool and easy. What you should **not** do is force down water on a fixed schedule beyond what thirst calls for. Drinking far more than you need, especially without replacing salt, can dilute your blood sodium and cause **hyponatremia**, which is dangerous and, in endurance settings, is driven mainly by overdrinking. So: drink to thirst, salt your food, and don't pre-load liters "just in case."
 
@@ -153,14 +153,14 @@ That's about **118 calories per ounce**, about 1.6 pounds, and protein in range 
 
 GearSkeptic's "Eat by Numbers" series is the most thorough free resource on this, and it's where a lot of the structure here comes from. If you only watch a couple, watch the first two performance videos.
 
-- [Defining "Ultralight" Food for Backpacking](https://www.youtube.com/watch?v=gbmQRmuv88c) — the calorie-density argument and why food weight dominates your pack.
-- [Performance Nutrition, Part 1: Optimal Trail Fuel](https://www.youtube.com/watch?v=iqgayipoNWA) — fat vs. carbs by intensity, and what to eat for breakfast and on the move. The most useful single video.
-- [Performance Nutrition, Part 2: Optimal Hike Recovery](https://www.youtube.com/watch?v=5KGIMRZVFnQ) — recovery and dinner, including the carb-plus-protein recovery idea.
-- [Performance Nutrition, Part 3: Hydration Strategies](https://www.youtube.com/watch?v=XgIfC3TnpNU) — water needs, sweat, and the dangers of both under- and over-drinking.
-- [Performance Nutrition, Part 4: Electrolyte Balance](https://www.youtube.com/watch?v=HpkXaeQri4A) — the actual electrolytes and how they fit with hydration.
-- [Performance Nutrition, Part 5: Advanced Electrolyte Supplementation](https://www.youtube.com/watch?v=pcowqiG-E2A) — deeper into electrolyte products; only if you're fine-tuning for long, hot days.
-- [Hiker Food Chart 2.0](https://www.youtube.com/watch?v=ynCBp7CZaNQ) — how the food chart works if you want to browse foods by density.
-- [Planning an Ultralight Backpacking Menu](https://www.youtube.com/watch?v=1Nyq0DWvf1s) — watching him build a full menu end to end.
+- [Defining "Ultralight" Food for Backpacking](https://www.youtube.com/watch?v=gbmQRmuv88c): the calorie-density argument and why food weight dominates your pack.
+- [Performance Nutrition, Part 1: Optimal Trail Fuel](https://www.youtube.com/watch?v=iqgayipoNWA): fat vs. carbs by intensity, and what to eat for breakfast and on the move. The most useful single video.
+- [Performance Nutrition, Part 2: Optimal Hike Recovery](https://www.youtube.com/watch?v=5KGIMRZVFnQ): recovery and dinner, including the carb-plus-protein recovery idea.
+- [Performance Nutrition, Part 3: Hydration Strategies](https://www.youtube.com/watch?v=XgIfC3TnpNU): water needs, sweat, and the dangers of both under- and over-drinking.
+- [Performance Nutrition, Part 4: Electrolyte Balance](https://www.youtube.com/watch?v=HpkXaeQri4A): the actual electrolytes and how they fit with hydration.
+- [Performance Nutrition, Part 5: Advanced Electrolyte Supplementation](https://www.youtube.com/watch?v=pcowqiG-E2A): deeper into electrolyte products; only if you're fine-tuning for long, hot days.
+- [Hiker Food Chart 2.0](https://www.youtube.com/watch?v=ynCBp7CZaNQ): how the food chart works if you want to browse foods by density.
+- [Planning an Ultralight Backpacking Menu](https://www.youtube.com/watch?v=1Nyq0DWvf1s): watching him build a full menu end to end.
 
 ## Sources and limitations
 
