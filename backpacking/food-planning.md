@@ -74,34 +74,25 @@ Fat carries the most calories for its weight: about 9 calories per gram, more th
 
 Aim for about what you normally eat, which for most adults is 25 to 38 grams a day (roughly 14 grams per 1,000 calories). The trail is a bad place to suddenly load up on unfamiliar high-fiber food.
 
-## 2. What to eat and when
+## 2. What nutrients you need, and when
 
-Lean your snacks carb-heavy for working muscles, and make dinner protein-rich for repair.
+The macro split in section 1 is your daily total. How you spread it across the day matters too: carbs while you're working, protein for repair, fat mainly to carry calories.
 
 ### Breakfast
 
-Something easy to eat at 6 a.m., mostly carbs with a little fat and protein: cereal or granola with powdered milk, instant oats with nut butter or oil stirred in, or just bars if you'd rather get moving. No-cook saves time and stove fuel.
+Mostly carbs, with a little fat and protein. The goal is quick, easy fuel to start moving.
 
 ### On the trail
 
-This is the bulk of the day. Graze on carbs with a little protein, in small amounts, often: trail mix, bars, dried fruit, chips, meat sticks, nut butter, tortillas. Carbs keep your legs working, so eat more of them on hard, long, or steep days. Keep snacks where you can reach them without unpacking.
+This is the bulk of your calories. Take in carbs with a little protein, in small amounts and often rather than one big stop. Carbs fuel working muscles, so the harder, longer, or steeper the day, the more carb-heavy you go.
 
 ### At camp
 
-If the day was hard or you're hiking hard again tomorrow, eat a carb-and-protein snack when you reach camp: chocolate milk, a recovery mix, or a bar with a salty snack. Carbs refill glycogen, protein supports repair, and low-fat food goes down easier right after hiking.
+After a hard day, or before another one, take in carbs plus some protein soon after you stop. Carbs refill glycogen and protein supports repair; lower-fat food tends to go down easier right after hiking.
 
 ### Dinner
 
-Most of your protein, and a good place for carbs to refill glycogen for tomorrow: a pasta or rice side with a protein, a freeze-dried meal, or ramen with a tuna or chicken packet. A hot meal is good for morale at the end of a long day.
-
-Some combinations that work:
-
-- Meat stick or jerky with a waffle, fig bars, or dried fruit
-- Tortilla with nut butter (and honey, if you like)
-- Granola with powdered milk or a scoop of protein powder
-- Ramen or a pasta side with a foil packet of chicken or tuna, or a spoon of broth or bouillon
-- A handful of trail mix when nothing else appeals
-- Recovery: chocolate milk from powdered milk and cocoa, or a bar with a salty snack
+Most of your protein for the day, plus carbs to refill glycogen for tomorrow.
 
 ## 3. Water and salt
 
