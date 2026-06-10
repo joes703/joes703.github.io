@@ -120,8 +120,6 @@ Normal trail food is salty: chips, jerky, cheese, crackers, ramen, dehydrated di
 
 For water, drink to thirst. Drink more when it's hot or you're working hard, less when it's cool and easy. What you should not do is force down water on a fixed schedule beyond what thirst calls for: drinking far more than you need, especially without replacing salt, can dilute your blood sodium and cause hyponatremia, which is dangerous and, in endurance settings, comes mainly from overdrinking. So drink to thirst, salt your food, and don't pre-load liters "just in case."
 
-Take these warning signs seriously: confusion, repeated vomiting, a severe or worsening headache, a seizure, altered behavior, swelling of the hands or face, or feeling worse the more water you drink. Many different problems can cause these, so don't try to diagnose yourself on the trail. Stop drinking on a schedule, and don't keep forcing water. If someone is confused, vomiting repeatedly, behaving strangely, seizing, or otherwise clearly unwell, treat it as a medical emergency and get help. This is also why people with heart, kidney, or blood-pressure conditions, or on medications that affect fluids or salt, need individual advice rather than a general rule of thumb.
-
 ## 4. Further watching
 
 GearSkeptic's "Eat by Numbers" series is a thorough free resource on this, and a lot of the structure here comes from it. If you only watch a couple, start with the first two performance videos.
