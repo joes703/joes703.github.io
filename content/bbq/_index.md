@@ -1,12 +1,9 @@
 ---
 title: "BBQ"
 weight: 3
-date: 2025-07-03
-draft: false
+bookCollapseSection: true
 ---
 
 # BBQ
 
-- Steak
-- Brisket 
-- Ribs
+Notes and tips on barbecue. Pick a page from the sidebar.

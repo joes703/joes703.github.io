@@ -1,6 +1,7 @@
 ---
 title: "Tech"
 weight: 2
+bookCollapseSection: true
 ---
 
 # Tech
