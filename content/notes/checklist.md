@@ -1,10 +1,9 @@
 ---
-title: Checklist
-parent: Backpacking
-nav_order: 3
+title: "Backpacking Prep Checklist"
+date: 2025-07-25
+draft: false
+tags: ["backpacking"]
 ---
-
-## Backpacking Prep Checklist
 
 ### A Week or More Before
 - [ ] Create packing list for trip  

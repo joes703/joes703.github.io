@@ -1,10 +1,9 @@
 ---
-title: Fitness
-parent: Backpacking
-nav_order: 4
+title: "Backpacking Fitness"
+date: 2025-08-17
+draft: false
+tags: ["backpacking"]
 ---
-
-# Backpacking Fitness
 
 ## Stay Active
 

@@ -1,10 +1,9 @@
 ---
-title: Info
-parent: Backpacking
-nav_order: 6
+title: "Backpacking Trip Information"
+date: 2025-09-15
+draft: false
+tags: ["backpacking"]
 ---
-
-# Backpacking Trip Information
 
 ## Welcome
 I’m glad you’re thinking about joining me on a backpacking trip. These trips are a chance to spend time in the wilderness and enjoy good company. This document explains what you need to know before coming along. Please read it in its entirety.

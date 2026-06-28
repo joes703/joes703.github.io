@@ -1,10 +1,9 @@
 ---
-title: Tips
-parent: Backpacking
-nav_order: 5
+title: "Backpacking Tips"
+date: 2025-07-03
+draft: false
+tags: ["backpacking"]
 ---
-
-# Backpacking Tips
 
 These tips can help improve your backpacking trip experience. 
 

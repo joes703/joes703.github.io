@@ -1,9 +1,9 @@
 ---
-title: Trips
-parent: Backpacking
-nav_order: 2
+title: "Backpacking Trips"
+date: 2025-07-04
+draft: false
+tags: ["backpacking"]
 ---
-# Backpacking Trips
 
 ## Personal Stats
 

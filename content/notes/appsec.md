@@ -1,10 +1,9 @@
 ---
-title: How to Get Into AppSec
-parent: Tech
-nav_order: 1
-layout: default
+title: "How to Get Into AppSec"
+date: 2025-09-15
+draft: false
+tags: ["tech"]
 ---
-# How to Get Into AppSec
 
 ## Section A — New to Tech (start here)
 
