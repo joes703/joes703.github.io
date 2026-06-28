@@ -3,7 +3,6 @@ title: "Backpacking Prep Checklist"
 weight: 3
 date: 2025-07-25
 draft: false
-tags: ["backpacking"]
 ---
 
 # Backpacking Prep Checklist

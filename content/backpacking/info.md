@@ -3,7 +3,6 @@ title: "Backpacking Trip Information"
 weight: 6
 date: 2025-09-15
 draft: false
-tags: ["backpacking"]
 ---
 
 # Backpacking Trip Information

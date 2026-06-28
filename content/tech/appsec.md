@@ -3,7 +3,6 @@ title: "How to Get Into AppSec"
 weight: 1
 date: 2025-09-15
 draft: false
-tags: ["tech"]
 ---
 
 # How to Get Into AppSec
