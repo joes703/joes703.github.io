@@ -1,9 +1,12 @@
 ---
 title: "Backpacking Food Planning"
+weight: 1
 date: 2026-06-09
 draft: false
 tags: ["backpacking"]
 ---
+
+# Backpacking Food Planning
 
 These are my notes to help plan food on multi-day backpacking trips.
 

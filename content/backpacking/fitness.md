@@ -1,9 +1,12 @@
 ---
 title: "Backpacking Fitness"
+weight: 4
 date: 2025-08-17
 draft: false
 tags: ["backpacking"]
 ---
+
+# Backpacking Fitness
 
 ## Stay Active
 

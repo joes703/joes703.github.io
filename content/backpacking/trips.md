@@ -1,9 +1,12 @@
 ---
 title: "Backpacking Trips"
+weight: 2
 date: 2025-07-04
 draft: false
 tags: ["backpacking"]
 ---
+
+# Backpacking Trips
 
 ## Personal Stats
 
